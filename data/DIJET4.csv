@@ -1,0 +1,1143 @@
+company,code,subcode,amount,description,price
+DIJET,NMDSD12-0080,SDHW 1204PDTR       (PVD)          JC8015,250,"לוח'כר'מתקש מצופה,DIJET,כר'90",13.51
+DIJET,NMIAP16-2070,APMT 160416PDER                   JC8050,240,"לוח'כרסום,מתקש מצופה,לכרס'(90)",14.5
+DIJET,NMDSD12-0050,SDMT 1204PDER      (PVD)          JC5040,210,"לוח'כר'מתקש מצופה,DIJET,כר'90",13.94
+DIJET,NMIAP10-0125,APKT 1003PDER-05                  JC5118,200,"לוח'כרס',מתק""ש מצופה,ל-90ISCAR",12.68
+DIJET,,SNMG120408-SZ       JC5118,200,,0
+DIJET,NMIAP10-0135,APKT 1003PDER-05                  JC8050,180,"לוח'כרס',מתק""ש מצופה,ל-90ISCAR",11.55
+DIJET,NMDRD12-0410,RDMW 1204M0T    (PVD)             JC8015,180,לוחית כרסום  מצופה עגולה,13.98
+DIJET,NTIWN08-5380,WNMG 080408-SZ     (PVD)          JC5118,180,"לוחית לחריטה, מתק""ש מצופה",13.79
+DIJET,,SNMG120412-SZ       JC5118,180,,0
+DIJET,NMDSD12-0070,SDMT 1204PDER       (PVD)          JC8050,170,"לוח'כר'מתקש מצופה,DIJET,כר'90",14.35
+DIJET,NTIWN08-5375,WNMG 080404-SZ     (PVD)          JC5118,160,"לוחית לחריטה, מתק""ש מצופה",13.47
+DIJET,NMDSP12-0015,IM-SP43GS          (PVD)          JC5118,140,"לוח'כר'מתקש מצופה,DIJET,כר'90",13.72
+DIJET,,APMT160408PDER       JC8050,140,,0
+DIJET,,ADMT100316PDER       JC8050,130,,0
+DIJET,,ZPMT 100308ZER-SL                    JC7518,130,,0
+DIJET,NMDSD12-0060,SDMT 1204PDER      (PVD)          JC8015,120,"לוח'כר'מתקש מצופה,DIJET,כר'90",13.05
+DIJET,NMHEP08-0062,XDMW 080620ZTR   (PVD)            JC7560,110,לוחית כרסום DIJET מצופה  משובעת (7 צלעות),14.41
+DIJET,NMIEP10-0220,YPHW 100308ZER-1.5  (CERMET)        CX75,110,לוחית ימנית high feed milling לפלדה CERMET,17.59
+DIJET,,EOMW 060210ZER              JC8118,110,,0
+DIJET,NTICN12-5410,CNMG 120408-SZ    (PVD)           JC5118,100,"לוחית לחריטה, מתק""ש מצופה",12.1
+DIJET,NMIZP10-0250,ZPMT 100304ZER                    JC8050,100,לוחית ימנית לכרסום,16.94
+DIJET,,ADMT100316PDER       JC5118,100,,0
+DIJET,,ADMT100316PDER       JC8015,100,,0
+DIJET,,IM-SP43GS-PH                      JC8050,100,,0
+DIJET,,RDMW 1004MOT                  JC8015,100,,0
+DIJET,,SDEW 090312ZER.                      JC7518,100,,0
+DIJET,NMDWD08-0245,WDMT 080520ZER    (PVD)           JC8050,90,לוחית כרסום  ל-HIGH FEED MILLING,20.4
+DIJET,NMIZP10-0200,ZPMT 100304ZER                    JC5118,90,לוחית ימנית לכרסום,15.85
+DIJET,NMIZP16-0105,ZPMT 160408R                      JC5015,90,לוחית ימנית לכרסום/שיקוע,19.35
+DIJET,,ADMT100308PDER       JC5118,90,,0
+DIJET,,ZPMT 100308ZER-PL                    DH102,90,,0
+DIJET,NTICN12-5105,CNMG 120408R-SG                   JC8015,80,"לוחית לחריטה, מתק""ש מצופה",13
+DIJET,NTIWN08-5120,WNMG 080408R-SG                   JC8015,80,"לוחית לחריטה, מתק""ש מצופה",14.36
+DIJET,,APMT160408PDER       JC5118,80,,0
+DIJET,,TNMG160408-SZ       JC5118,80,,0
+DIJET,NTICN12-5108,CNMG 120412R-SG                   JC8015,70,"לוחית לחריטה, מתק""ש מצופה",13
+DIJET,NMIZC10-0050,ZCMT 100308R                      JC5040,70,לוחית ימנית לכרסום/שיקוע,16.83
+DIJET,,EOMT 060210ZER               JC8118,70,,0
+DIJET,,RDHX 12T3M0T                    JC8118,70,,0
+DIJET,,RDHX 1604MOT                     JC8118,70,,0
+DIJET,,SDEW090312ZER.   JC7550,70,,0
+DIJET,,ZPMT 100320ZER                         JC8050,70,,0
+DIJET,NMDWO04-0125,WOMW 04T215ZER    (PVD)           JC5118,60,לוחית כרסום ל-HIGH FEED MILLING,18.53
+DIJET,NMIZP13-0105,ZPMT 13T308R                      JC5015,60,לוחית ימנית לכרסום/שיקוע,18.1
+DIJET,NMIZP13-0210,ZPMT 13T308RP  (POLISHED)           FZ15,60,לוחית כרסום מלוטשת ל-SICM/SECM,18.32
+DIJET,,APMT160408PDER       JC8015,60,,0
+DIJET,,ZDMT 13T320-RP                      FZ15,60,,0
+DIJET,,ZPMT 100308ZER-PL                    CX75,60,,0
+DIJET,NMDMSSP-0161,#SM-SE13 MR2    (SHIM FOR SE13T3)........,50,תחתית ללוחית SEMT13T3,28.12
+DIJET,NMIEO06-0070,EOMW 060210ZER   (PVD)            JC7560,50,לוחית ימנית high feed milling,16.04
+DIJET,NMDSP09-0010,IM-SP32GS          (PVD)          JC5015,50,"לוח'כר'מתקש מצופה,DIJET,כר'90",14.02
+DIJET,NMDSP12-0033,"IM-SP43GS-N1  (PVD,SERRATED)      JC5040",50,"לוחית כרסום משוננת,ציפוי PVD",12.81
+DIJET,NMDRD12-0305,RDMT 1204M0T    (PVD)             JC5118,50,לוחית כרסום לחוצה מצופה עגולה,15.04
+DIJET,NMSDS12-0050,SDHW 1204AFTN                     JC5040,50,לוחית כרסום ISO  מצופה,13.97
+DIJET,NMDWD05-0150,WDMT 050316ZER    (PVD)           JC5118,50,לוחית כרסום ל-HIGH FEED MILLING,18.69
+DIJET,NMDWO04-0135,WOMT 04T215ZER    (PVD)           JC7560,50,לוחית כרסום ל-HIGH FEED MILLING,17.63
+DIJET,NMIZC10-0060,ZCMT 100308R                      JC5015,50,לוחית ימנית לכרסום/שיקוע,18.59
+DIJET,NMIZD10-0060,ZDMT 100308L                      JC5015,50,לוחית ימנית לכרסום/שיקוע,18.59
+DIJET,NMIZD13-0050,ZDMT 13T308L                      JC5040,50,לוחית שמאלית לכרסום/שיקוע,16.67
+DIJET,NMIZO06-0160,ZOMT 060204ZER   (PVD)            JC8050,50,לוחית ימנית high feed milling,13.54
+DIJET,,ADMT100308PDER       JC8050,50,,0
+DIJET,,EPHW100316ZTR       DH102,50,,0
+DIJET,,RDHX 1003M0T                    DH103,50,,0
+DIJET,,RDMT 1004M0E                     JC8118,50,,0
+DIJET,,SNMG120412R-SG       JC8015,50,,0
+DIJET,,SDEW090312ZER.   JC7518,50,,0
+DIJET,,TNMG160408R-SG       JC8015,50,,0
+DIJET,,WDMW 050316ZTR              JC8118,50,,0
+DIJET,,ZPMT 100320ZER-PL                      JC8118,50,,0
+DIJET,NMIEO06-0100,EOHW 060210ZTR   (PVD)            JC6102,40,לוחית ימנית high feed milling לפלדה מחוסמת,18.34
+DIJET,NMIEO06-0050,EOMW 060210ZER   (PVD)            JC5118,40,לוחית ימנית high feed milling,12.86
+DIJET,NMDSP09-0020,IM-SP32GS          (PVD)          JC5030,40,"לוח'כר'מתקש מצופה,DIJET,כר'90",14.02
+DIJET,NMDSP09-0030,IM-SP32GS          (PVD)          JC5040,40,"לוח'כר'מתקש מצופה,DIJET,כר'90",14.02
+DIJET,NMDSP12-0025,"IM-SP43GS-N1  (PVD,SERRATED)      JC8015",40,"לוחית כרסום משוננת,ציפוי PVD",13.72
+DIJET,NMDRD10-0206,RDMT 1004M0T    (PVD)             JC5118,40,לוחית כרסום מושחזת מצופה עגולה,12.32
+DIJET,NTITN16-5055,TNMG 160404L-SG                   JC8015,40,"לוחית לחריטה, מתק""ש מצופה",10.28
+DIJET,NTITN16-5205,TNMG 160404-SF                    JC8015,40,"לוחית לחריטה, מתק""ש מצופה",10.28
+DIJET,NMDWD05-0105,WDMW 050316ZTR    (PVD)           JC8050,40,לוחית כרסום ל-HIGH FEED MILLING,17.25
+DIJET,NMDWN09-0200,WNMU 090720ZER-PM (PVD)           JC8118,40,לו'כר' 6 פינות עבודה לHIGH FEED MILLING,23.94
+DIJET,NMDWO04-0130,WOMW 04T215ZER    (PVD)           JC7560,40,לוחית כרסום ל-HIGH FEED MILLING,16.62
+DIJET,,APKT 1604PDR-08                   JC5118,40,,0
+DIJET,,CNMG120404R-SG       JC8015,40,,0
+DIJET,,EPHW100316ZTR       JC6102,40,,0
+DIJET,,RDHX 0702MOT                    DH103,40,,0
+DIJET,,SDET090312ZDER.   JC7550,40,,0
+DIJET,,ZPMT 100304ZER-SL                      JC7518,40,,0
+DIJET,NMIZC10-0070,ZCMT 100308RP  (POLISHED)           FZ15,37,לוחית כרסום מלוטשת ל-SICM/SECM,17.33
+DIJET,NMDRD12-0320,RDGT 1204M0F-AL                     FZ05,30,לוחית כרסום מושחזת עגולה לאלומיניום,18.08
+DIJET,NMPRD10-0325,RDHT 1003MOF   (TITAN. ALLOYS+ALUM.) KT9,30,"לוחית כרסום עגולה, לא מצופה",15.15
+DIJET,NMPRD12-0325,RDHT 12T3MOF   (TITAN. ALLOYS+ALUM.) KT9,30,"לוחית כרסום עגולה, לא מצופה",16.48
+DIJET,NMDBM16-0010,SWB-216-HM  (MAIN BLADE)          JC5118,30,"להב מתק""ש לראש כדורי SWING BALL",49.47
+DIJET,NMDBM16-0050,SWB-216-HS    (MAIN BLADE)        JC5118,30,"להב מתק""ש לראש כדורי SWING BALL",36.47
+DIJET,NMDWD05-0126,WDMW 050316ZTR    (PVD)           JC7560,30,לוחית כרסום ל-HIGH FEED MILLING,16.62
+DIJET,NMDWD10-0150,WDMW 10X620ZTR    (PVD)           JC8015,30,לוחית כרסום  ל-HIGH FEED MILLING,25.03
+DIJET,NMDWD10-0170,WDMW 10X620ZTR    (PVD)           JC8050,30,לוחית כרסום  ל-HIGH FEED MILLING,26.39
+DIJET,NTIWN08-5070,WNMG 080404L-SG                   JC8015,30,"לוחית לחריטה, מתק""ש מצופה",14.36
+DIJET,NMDWO04-0120,WOMW 04T215ZER    (PVD)           JC8050,30,לוחית כרסום ל-HIGH FEED MILLING,18.08
+DIJET,NMIZP16-0150,ZPMT 160408RP  (POLISHED)           FZ15,30,לוחית כרסום מלוטשת ל-SICM/SECM,18.28
+DIJET,,CNMG120412L-SG       JC8015,30,,0
+DIJET,,EPHW100312ZER      JC8050,30,,0
+DIJET,,EPHW100316ZTR       JC8118,30,,0
+DIJET,,RDHX 1003M0T                      JC8118 ,30,,0
+DIJET,,RDHX 12T3MOT                    DH103,30,,0
+DIJET,,RNMU 1205MOE-MM JC7560P,30,,0
+DIJET,,SNMG120408R-SG       JC8015,30,,0
+DIJET,,TNMG160404R-SG       JC8015,30,,0
+DIJET,,WDMT 080520ZER    (CVD)           JC7560,30,,0
+DIJET,,ZDMT 13T316-RP                      FZ15,30,,0
+DIJET,,ZPMT 100304ZER-PL                      DH102,30,,0
+DIJET,,ZPMT 100304ZER-PL                      JC8118,30,,0
+DIJET,,ZPMT 13T316R                        JC5015,30,,0
+DIJET,,BNM-120-SS                           DH108,24,,0
+DIJET,DSEH6080-010,"DV-SEHH6080-R02 (D8,l20,L70,Z6)  JC8000H",22,"כרסום אצבע מתק""ש לפלדות קשות",153.51
+DIJET,,APMT160416PDER       JC8050,22,,0
+DIJET,NMDMSSP-0575,#DSW-307H..................(FOR SWB 220),20,בורג הידוק ללוחית SWB 220,13.33
+DIJET,NTICN12-5155,CNMG 120408L-SG                   JC8015,20,"לוחית לחריטה, מתק""ש מצופה",11.75
+DIJET,NMDCP15-0020,IM-CP32N           (PVD)          JC5030,20,"לוח'כר'מתקש מצופה,DIJET,כר'90",16.65
+DIJET,NMDCP15-0030,IM-CP32N           (PVD)          JC5040,20,"לוח'כר'מתקש מצופה,DIJET,כר'90",16.72
+DIJET,NMDRD07-0150,RDGT 07T2M0F-AL                     FZ05,20,לוחית כרסום מושחזת עגולה לאלומיניום,12.33
+DIJET,NMDRD10-0260,RDGT 1004M0T    (PVD)             JC8050,20,לוחית כרסום מושחזת מצופה עגולה,15.23
+DIJET,NMDRP12-0025,RPMT 1204M0E-MM4    (PVD)        JC7560,20,לוחית כרסום עגולה ל-SUPER ALLOYS,0.04
+DIJET,NMDRP12-0020,RPMT 1204M0E-MM8    (PVD)        JC7560,20,לוחית כרסום עגולה ל-SUPER ALLOYS,0.04
+DIJET,NMDRP12-0030,RPMT 1204MOE-MH4    (PVD)        JC7560,20,לוחית כרסום עגולה ל-SUPER ALLOYS,0.04
+DIJET,NTITN16-5305,TNMG 160408-SF                    JC8015,20,"לוחית לחריטה, מתק""ש מצופה",10.28
+DIJET,NMDWD10-0120,WDMT 10X620ZER    (PVD)           JC5118,20,לוחית כרסום  ל-HIGH FEED MILLING,24.3
+DIJET,NMDWD10-0110,WDMT 10X620ZER    (PVD)           JC8050,20,לוחית כרסום  ל-HIGH FEED MILLING,25.39
+DIJET,NMDWD06-0105,WDMW 06T320ZTR    (PVD)           JC8050,20,לוחית כרסום ל-HIGH FEED MILLING,17.98
+DIJET,NMDWD10-0155,WDMW 10X620ZTR    (PVD)           JC5118,20,לוחית כרסום  ל-HIGH FEED MILLING,26.19
+DIJET,NTIWN08-5170,WNMG 080408L-SG                   JC8015,20,"לוחית לחריטה, מתק""ש מצופה",14.36
+DIJET,NMHEP08-0085,XDMT 080620ZER   (PVD)            JC7560,20,לוחית כרסום DIJET מצופה  משובעת (7 צלעות),14.41
+DIJET,NMHEP08-0065,XDMW 080620ZTR   (PVD)            JC5118,20,לוחית כרסום DIJET מצופה  משובעת (7 צלעות),14.81
+DIJET,NMHEP08-0040,XDMW 080620ZTR   (PVD)            JC8050,20,לוחית כרסום DIJET מצופה  משובעת (7 צלעות),14.81
+DIJET,NMIZD10-0070,ZDMT 100308LP  (POLISHED)           FZ15,20,לוחית כרסום מלוטשת ל-SICM/SECM,15.13
+DIJET,NMIZD13-0090,ZDMT 13T308LP  (POLISHED)           FZ15,20,לוחית כרסום מלוטשת ל-SICM/SECM,18.32
+DIJET,NMIZO06-0110,ZOMT 060202ZER   (PVD)            JC8050,20,לוחית ימנית high feed milling,13.87
+DIJET,NMIZP13-0100,ZPMT 13T308R                      JC5040,20,לוחית ימנית לכרסום/שיקוע,17.88
+DIJET,NMIZP13-0200,ZPMT 13T320R                      JC5040,20,לוחית ימנית לכרסום/שיקוע,13.82
+DIJET,NMIZP13-0230,ZPMT 13T320RP  (POLISHED)           FZ15,20,לוחית כרסום מלוטשת ל-SICM/SECM,18.32
+DIJET,NMIZP16-0060,ZPMT 160408L                      JC5015,20,לוחית שמאלית לכרסום/שיקוע,19.35
+DIJET,NMIZP16-0050,ZPMT 160408L                      JC5040,20,לוחית שמאלית לכרסום/שיקוע,20.52
+DIJET,NMIZP16-0100,ZPMT 160408R                      JC5040,20,לוחית ימנית לכרסום/שיקוע,0
+DIJET,,CNMG120404L-SG       JC8015,20,,0
+DIJET,,ENMU100412ZER-PH       JC8050,20,,0
+DIJET,,ENMU100412ZER-SL       JC7518,20,,0
+DIJET,,RDGT 1004M0E                    JC8015,20,,0
+DIJET,,RDHT 0702MO-T57P,20,,0
+DIJET,,RDHX 1003M0F                      KT9,20,,0
+DIJET,,RDMT 1004M0E-ML                JC8050,20,,0
+DIJET,,TNMG160404-SZ       JC5118,20,,0
+DIJET,,TNMG160408L-SG       JC8015,20,,0
+DIJET,,WDMW 080520ZTR                        JC8118,20,,0
+DIJET,,XDHW 031010                       DH103,20,,0
+DIJET,,YOHW 060208ZER-12            DH102,20,,0
+DIJET,,ZPMT 13T316-R                     JC5040,20,,0
+DIJET,,RDHT 12T3MO T57P,20,,0
+DIJET,DSEH4020010,"DV-SEHH4020      (D2,l7,L60,Z4)  JC8000H",16,"כרסום אצבע מתק""ש לפלדות קשות",85.01
+DIJET,NDMRB10-0300,HRM-100-R20   (H.F.C)             JC8015,14,"להב מתק""ש שטוח לקידמה מהירה",84.15
+DIJET,DSEH6060-010,"DV-SEHH6060-R02 (D6,l15,L60,Z6)  JC8000H",13,"כרסום אצבע מתק""ש לפלדות קשות",126.89
+DIJET,NDMSB20-0010,BNM-200-S    (PVD)                JC8008,12,להב כדורי מפותל MIROR.BALL,104.37
+DIJET,NMDMSSP-0180,#TSW-3612H..................(FOR SE13T3),11,בורג הידוק ללוחית SEMT 13T3,16.53
+DIJET,NDMSB08-0020,BNM-080-S                         JC8008,10,"להב מתק""ש כדורי MIROR.BALL",61.6
+DIJET,NTICN12-2900,CNMG 120404-UB                    JC110V,10,"לוחית לחריטה, מתק""ש מצופה",5.94
+DIJET,NTICN12-5110,CNMG 120408R-SG                   JC110V,10,"לוחית לחריטה, מתק""ש מצופה",11.33
+DIJET,NTICN12-5310,CNMG 120408-SF                    JC110V,10,"לוחית לחריטה, מתק""ש מצופה",11.4
+DIJET,DSEH4030-010,"DV-SEHH4030-R02 (D3,l10,L60,Z4)  JC8000H",10,"כרסום אצבע מתק""ש לפלדות קשות",95.62
+DIJET,NDMRB08-0180,HRM-080-R10   (H.F.C)             JC8015,10,"להב מתק""ש שטוח לקידמה מהירה",69.89
+DIJET,NDMRB08-0200,HRM-080-R20   (H.F.C)             JC8015,10,"להב מתק""ש שטוח לקידמה מהירה",69.89
+DIJET,NMDSP12-0030,"IM-SP43GS-N1  (PVD,SERRATED)      JC8050",10,"לוחית כרסום משוננת,ציפוי PVD",12.28
+DIJET,NMDRD12-0300,RDGT 1204M0E    (PVD)             JC8015,10,לוחית כרסום מושחזת מצופה עגולה,15.23
+DIJET,NMDRD12-0360,RDGT 1204M0T    (PVD)             JC8050,10,לוחית כרסום מושחזת מצופה עגולה,0
+DIJET,NMDRD10-0065,RDHX 1003M0T                      JC5118,10,לוחית כרסום מצופה עגולה,14.28
+DIJET,NMPRD20-0060,RDHX 2006MOT                      JC5030,10,"לוחית כרסום עגולה, ציפוי PVD",33.2
+DIJET,NMDRD07-0200,RDMT 0702M0E    (PVD)             JC8050,10,לוחית כרסום מושחזת מצופה עגולה,10.5
+DIJET,NMDRD07-0300,RDMW 0702M0T    (PVD)             JC8015,10,לוחית כרסום מצופה עגולה,8.89
+DIJET,NMDWD06-0165,WDMT 06T320ZER    (PVD)           JC5118,10,לוחית כרסום ל-HIGH FEED MILLING,17.61
+DIJET,NMDWD08-0220,WDMT 080520ZER    (CVD)           JC730U,10,לוחית כרסום  ל-HIGH FEED MILLING,22.07
+DIJET,NMDWD08-0247,WDMT 080520ZER    (PVD)           JC5118,10,לוחית כרסום  ל-HIGH FEED MILLING,20.77
+DIJET,NMDWD06-0101,WDMW 06T320ZTR    (PVD)           JC5118,10,לוחית כרסום ל-HIGH FEED MILLING,19.19
+DIJET,NMDWD06-0180,WDMW 06T320ZTR    (PVD)           JC7560,10,לוחית כרסום ל-HIGH FEED MILLING,16.02
+DIJET,NTIWN08-5741,WNMG 080408-PG                    JC110V,10,"לוחית לחריטה, מתק""ש מצופה",13.88
+DIJET,NTIWN08-5745,WNMG 080408-PG       (PVD)        JC8015,10,"לוחית לחריטה, מתק""ש מצופה",13.25
+DIJET,NTIWN08-5130,WNMG 080408R-SG                   JC110V,10,"לוחית לחריטה, מתק""ש מצופה",13.88
+DIJET,NTIWN08-5500,WNMG 080408-UB                    JC110V,10,"לוחית לחריטה, מתק""ש מצופה",15.07
+DIJET,NTIWN08-5910,WNMG 080412-SZ   (PVD)            JC5118,10,"לוחית לחריטה, מתק""ש מצופה",14.41
+DIJET,NMTXD02-0100,XDHW 020610      (PVD)            JC5040,10,"לוחית כרסום DIJET מצופה , 70 מעלות",14.54
+DIJET,NMHEP08-0075,XDMT 080620ZER   (PVD)            JC5118,10,לוחית כרסום DIJET מצופה  משובעת (7 צלעות),16.1
+DIJET,NMHEP08-0070,XDMT 080620ZER   (PVD)            JC8015,10,לוחית כרסום DIJET מצופה  משובעת (7 צלעות),16.65
+DIJET,NMHEP08-0080,XDMT 080620ZER   (PVD)            JC8050,10,לוחית כרסום DIJET מצופה  משובעת (7 צלעות),16.1
+DIJET,NMIEP10-0200,YPHW 100308ZER-15   (PVD)         JC6102,10,לוחית ימנית high feed milling לפלדה מחוסמת,22.37
+DIJET,NMIZD13-0090,ZDMT 13T308RP  (POLISHED)           FZ15,10,לוחית כרסום מלוטשת ל-SICM/SECM,18.32
+DIJET,NMIZD13-0070,ZDMT 13T320L                      JC5040,10,לוחית שמאלית לכרסום/שיקוע,18.08
+DIJET,NMIZD13-0100,ZDMT 13T320LP  (POLISHED)           FZ15,10,לוחית כרסום מלוטשת ל-SICM/SECM,18.32
+DIJET,NMIZO06-0210,ZOMT 060208ZER   (PVD)            JC8050,10,לוחית ימנית high feed milling,0
+DIJET,NMIZP10-0210,ZPMT 100308ZER                    JC5118,10,לוחית ימנית לכרסום,16.94
+DIJET,,BNM-100-SS                           DH108,10,,0
+DIJET,,CNMG120404-SZ       JC5118,10,,0
+DIJET,,ENMU100412ZER-PH       JC8118,10,,0
+DIJET,,RDMW 1606M0T                  DH103,10,,0
+DIJET,,SPMT100415ZPTR-PM       JC8118,10,,0
+DIJET,,TNMG 331-SF              JC8015,10,,0
+DIJET,,TNMG160408-UD       JC110V,10,,0
+DIJET,,XDMT 080620ZER-ML                   JC7560P,10,,0
+DIJET,,XDMW 080635ZTR-S                    JC5040,10,,0
+DIJET,,YPHW 100308ZER-F    JC8015,10,,0
+DIJET,,ZPMT 100308ZER                    JC8050,10,,0
+DIJET,,ZPMT 13T316-RP                     FZ15,10,,0
+DIJET,,ZPMT 13T320R                      JC5015,10,,0
+DIJET,,YCMU 090716ZER-PM JC8050,10,,0
+DIJET,,YCMU 09078ZER-PM JC8118,10,,0
+DIJET,DOCSAR100010,DV-OCSAR4100-10 (D10l22L80d10R1.0)JC8010,9,כרסום אצבע ל-DIJET SUPER ALLOYS,298.99
+DIJET,NMMPM12-0010,"MPM-3012-M6              (D12,Z3,L20,M6)",9,"ראש כר',מתברג,לוחית EO/ZO0602",275.1
+DIJET,,BNM-060-SS                           DH108,8,,0
+DIJET,,SPMT100415ZPER-SM       JC7550,8,,0
+DIJET,,RDMX12T3MOT JC8015,8,,0
+DIJET,DOCSAR120010,DV-OCSAR4120-10(D12l26L100d12R1.0)JC8010,7,כרסום אצבע ל-DIJET SUPER ALLOYS,374.81
+DIJET,NDMSB06-0040,BNM-060-S                         JC8008,6,"להב מתק""ש כדורי MIROR.BALL",73.66
+DIJET,DOCSAR030020,"DV-OCSAR 4030-05(D3l8L60Z4d6,R05) JC8010",6,כרסום אצבע DIJET SUPER ALLOYS,139.03
+DIJET,DOCSAR060020,"DV-OCSAR 4060-05(D3l8L60Z4d6,R05) JC8010",6,כרסום אצבע DIJET SUPER ALLOYS,174.99
+DIJET,NDMRB16-0300,HRM-160-R30   (H.F.C)             JC8015,6,"להב מתק""ש שטוח לקידמה מהירה",103.18
+DIJET,NMCS120-0020,MSN-M6-30-S12C                    (L=80),6,"קנה מתק""ש DIJET, קצה מתברג",502.75
+DIJET,NDMRB10-0110,RNM-100-R05                       JC8015,6,"להב מתק""ש שטוח MIROR.RAD",81.29
+DIJET,,APKT 1604PDR-08                   JC8050,6,,0
+DIJET,,BNM-080-SS                           DH108,6,,0
+DIJET,,BNM-160-SS                           DH108,6,,0
+DIJET,,FRM-100-R10                         JC8015,6,,0
+DIJET,,MBN-120-M6,6,,0
+DIJET,,MRX-160-M8,6,,0
+DIJET,NMMQX25-0020,"MQX-5025-M12             (D25,Z5,L35,M12)",5,"ראש כר',מתברג,לוחית EP10",427.16
+DIJET,NMMRN10-0010,"MRN-100-M6-H     (L=18,IMTERNAL COOLENT)",5,"ראש כרסום כדורי מתברג DIJET,",252.96
+DIJET,NMMRN16-0010,"MRN-160-M8-H     (L=23,IMTERNAL COOLENT)",5,"ראש כרסום כדורי מתברג DIJET,",314.67
+DIJET,NMCS120-0010,MSN-M6-15-S12C                    (L=60),5,"קנה מתק""ש DIJET, קצה מתברג",372.39
+DIJET,NMTEMRD-0510,"DDM-2200-60-W20    (D10,A20,d20,L110,Z2)",4,"כר'אצ',לוחית עגולה,לוח'RD1003",223.34
+DIJET,DOCSAR080020,"DV-OCSAR 4080-05(D3l8L60Z4d6,R05) JC8010",4,כרסום אצבע DIJET SUPER ALLOYS,212.54
+DIJET,DSCM6100-0010,"DV-SCMS6100   (D10.0,l25,L75,Z6)  JC8010",4,"כרסום אצבע מתק""ש לפלדות קשות",416.42
+DIJET,NDMRB08-0117,HRM-080-R05-F  (H.F.C)            JC8015,4,"להב מתק""ש שטוח לקידמה מהירה",71.6
+DIJET,NDMRB10-0115,HRM-100-R05    (H.F.C)            JC8015,4,"להב מתק""ש שטוח לקידמה מהירה",77.9
+DIJET,NDMRB10-0160,HRM-100-R10                       JC8015,4,"להב מתק""ש שטוח MIROR.RAD",84.67
+DIJET,NDMRB12-0300,HRM-120-R20   (H.F.C)             JC8015,4,"להב מתק""ש שטוח לקידמה מהירה",74.2
+DIJET,NMDDMSH-0270,"MSH-3026-M12           (D26,Z3*WD05,M12)",4,"ראש כר',HFM,מתברג,לוח'WD0503",481.43
+DIJET,NMCS160-0020,MSN-M8-40-S16C                    (L=95),4,"קנה מתק""ש DIJET, קצה מתברג",552.05
+DIJET,,BNM-200-SS                           DH108,4,,0
+DIJET,,ENMU100412ZER-SL       JC7550,4,,0
+DIJET,,MRX-120-M6-H,4,,0
+DIJET,,#11139-Z9523   JC7550,4,,0
+DIJET,DOCSAR160035,DV-OCSAR4160-10(D16l32L110d16R30) JC8010,3,כרסום אצבע DIJET SUPER ALLOYS,745.15
+DIJET,NDSEM60-0060,"DV-SEHM6060 (D6.0,l?,L?,Z6,d6)   JC8000H",3,"כרסום אצבע מתק""ש לפלדות קשות",197.93
+DIJET,NDSEM60-0100,"DV-SEHM6100 (D10.0,l?,L?,Z6,d10) JC8000H",3,"כרסום אצבע מתק""ש לפלדות קשות",310.59
+DIJET,DZR0410-0100,"DZ-OCRS4100           (D10,l23,L72,Z4)",3,"כר'אצ' מתק""ש ריסוק לפל' קשות וברזל יציקה",258.28
+DIJET,NMMBN16-0010,"MBN-160-M8-H     (L=23,IMTERNAL COOLENT)",3,"ראש כרסום כדורי מתברג DIJET,",257.53
+DIJET,NMMPM16-0010,"MPM-4016-M8              (D16,Z4,L23,M8)",3,"ראש כר',מתברג,לוחית EO/ZO0602",350.53
+DIJET,NMMQX20-0015,"MQX-3020-M10            (D20,Z3,L30,M10)",3,"ראש כר',מתברג,לוחית EP10",312.94
+DIJET,NMCS100-0030,MSN-M6-50-S10C                   (L=100),3,"קנה מתק""ש DIJET, קצה מתברג",469.21
+DIJET,NMMPM10-0020,"PME-2010-S10        (D10,Z2,L80,l20,d10)",3,"כרסום אצבע לוחית EO06,קרור פנימי",243.86
+DIJET,NDMRB20-0255,RNM-200-R20                       JC8015,3,"להב מתק""ש שטוח MIROR.RAD",127.71
+DIJET,NMTESKS-0200,"SKS-2020-50-S20   (D20,d20,H50,Z2*wd05)",3,"כרס'אצ',לוחית WD05 ל-H.F.MILL",475.88
+DIJET,NMTFSKS-0210,"SKS-4052R-08-22    (D52,d22,F50,Z4*wd08)",3,"כרס'שטח,לוחית high feed",713.22
+DIJET,NMTFSKS-0360,"SKS-4063R-10-27   (D63,d27,F50,Z4*wd010)",3,"כרס'שטח,לוחית high feed",853.82
+DIJET,,MBN-100-M6,3,,0
+DIJET,,PME3012S12  (32143-Z8400),3,,0
+DIJET,,TEZ 2650  JC8050,3,,0
+DIJET,,TEZD 2600S32-MS,3,,0
+DIJET,,ZPMT 160408-LP                      FZ15,3,,0
+DIJET,,ZPMT100308ZER-PL CX75,3,,0
+DIJET,NDMSB10-0020,BNM-100-SH   (PVD)               JC6102,2,להב כדורי מפותל MIROR.BALL,71.67
+DIJET,NDMSB12-0010,BNM-120-S    (PVD)                JC8008,2,להב כדורי מפותל MIROR.BALL,72.06
+DIJET,NDMSB16-0010,BNM-160-S    (PVD)                JC8008,2,להב כדורי מפותל MIROR.BALL,85.21
+DIJET,DOCSAR040020,"DV-OCSAR 4040-05(D3l8L60Z4d6,R05) JC8010",2,כרסום אצבע DIJET SUPER ALLOYS,149.39
+DIJET,DSCM6060-0010,"DV-SCMS6060    (D6.0,l15,L50,Z6)  JC8010",2,"כרסום אצבע מתק""ש לפלדות קשות",242.9
+DIJET,DSCM8120-0010,"DV-SCMS8120  (D12.0,l26,L100,Z8)  JC8010",2,"כרסום אצבע מתק""ש לפלדות קשות",566.77
+DIJET,NMEXSKS-0100,"EXSKS-4050R-22     (D50,d22,F55,Z4*wn09)",2,"כרס' high feed milling,לוח' 6 פינות עבודה",595
+DIJET,NMEXSKS-0150,"EXSKS-4052R-22     (D52,d22,F50,Z4*wn09)",2,"כרס' high feed milling,לוח' 6 פינות עבודה",588
+DIJET,NDMRB06-0180,HRM-060-R10   (H.F.C)             JC8015,2,"להב מתק""ש שטוח לקידמה מהירה",73.75
+DIJET,NDMRB08-0116,HRM-080-R05-F  (H.F.C)            JC6102,2,"להב מתק""ש שטוח לקידמה מהירה",71.6
+DIJET,NMMBN12-0010,"MBN-120-M6-H     (L=20,IMTERNAL COOLENT)",2,"ראש כרסום כדורי מתברג DIJET,",275.69
+DIJET,NMMCM25-0300,"MCM-2535-M12             (D25-35,L35,Z2)",2,"ראש כרסום 45 מע', מתברג, לוח'SP0903",495.1
+DIJET,NMMEC10-0020,"MEC-2021-M10  (D21,Z1+1,ZD/ZC10,L30,M10)",2,"ראש כר',מתברג,לוחית ZD/ZC 1003",527.11
+DIJET,NMMIC13-0040,"MIC-3032-M16     (D32,Z3,ZP1604,L43,M16)",2,"ראש כר',מתברג,לוחית ZPMT1604",599.93
+DIJET,NMMPM10-0010,"MPM-2010-M6              (D10,Z2,L18,M6)",2,"ראש כר',מתברג,לוחית EO/ZO0602",261.18
+DIJET,NMMRN12-0010,"MRN-120-M6-H     (L=20,IMTERNAL COOLENT)",2,"ראש כרסום כדורי מתברג DIJET,",238.31
+DIJET,NMDDMSH-0100,"MSH-2016-M8             (D16,Z2*WO04,M8)",2,"ראש כר',HFM,מתברג,לוח'WOMD04",406.03
+DIJET,NMDDMSH-0260,"MSH-3025-M12           (D25,Z3*WD05,M12)",2,"ראש כר',HFM,מתברג,לוח'WD0503",482.13
+DIJET,NMCS100-0010,MSN-M6-12-S10C                    (L=60),2,"קנה מתק""ש DIJET, קצה מתברג",305.27
+DIJET,NMCS120-0030,MSN-M6-50-S12C                   (L=100),2,"קנה מתק""ש DIJET, קצה מתברג",526.71
+DIJET,NMCS160-0010,MSN-M8-20-S16C                    (L=75),2,"קנה מתק""ש DIJET, קצה מתברג",538.84
+DIJET,NDMRB06-0070,RNM-060-R03                       JC8015,2,"להב מתק""ש שטוח MIROR.RAD",77.03
+DIJET,NDMRB06-0120,RNM-060-R05                       JC8015,2,"להב מתק""ש שטוח MIROR.RAD",77.03
+DIJET,NDMRB12-0070,RNM-120-R03                       JC8015,2,"להב מתק""ש שטוח MIROR.RAD",89.45
+DIJET,NDMRS16-0020,"RNMM-160090S-S16      (D16,d16,l90,L160)",2,"קנה פלדה ,בנוני,ל-MIRROR RADIUS",378.44
+DIJET,NMDDSDH-0300,"SDH-4320-R10-M16     (D32,Z4*RD1004,M16)",2,"ראש כר',מתברג,לוח'RD1004",410.32
+DIJET,NMDSM25-0140,"SECL 2527S25    (D25,d25,L0=27,L220,l75)",2,"כרסום אצבע/שיקוע, ארוך, רב-תכליתי",0
+DIJET,NMDSM25-0070,"SECM 2627S25    (D26,d25,L0=27,L140,l40)",2,"כרסום אצבע/שיקוע, קצר, רב-תכליתי",569.49
+DIJET,NMDSM32-0070,"SECM 3334S32    (D33,d32,L0=34,L150,l50)",2,"כרסום אצבע/שיקוע, קצר, רב-תכליתי",607.33
+DIJET,,BNM-080                                  DH103,2,,0
+DIJET,,BNM-120                                 DH103,2,,0
+DIJET,,BNM-120-S                             FZ05,2,,0
+DIJET,,BNM-250-SS                             DH108,2,,0
+DIJET,,BNMM-08035S-S08C,2,,0
+DIJET,,FRM-120-R10                         JC8015,2,,0
+DIJET,,FRM-120-R20                         JC8015,2,,0
+DIJET,,GRM-160-R50                         JC8015,2,,0
+DIJET,,GRM-200-R60                         JC8015,2,,0
+DIJET,,MBX-200-M10,2,,0
+DIJET,,MRX-100-M6,2,,0
+DIJET,,MSN-M6-120S-S11.8C        ,2,,0
+DIJET,,MSN-M6-35T-S12C        ,2,,0
+DIJET,,PME3013S12-LS  (32143-Z7204),2,,0
+DIJET,,SECM 2121S20,2,,0
+DIJET,,SICM 2513S25-3N,2,,0
+DIJET,,SKS-3040-50-S32  (32121-Z1890),2,,0
+DIJET,,TEZ 1430  JC8050,2,,0
+DIJET,,TEZ 1450  JC8050,2,,0
+DIJET,,TEZ 1630  JC8050,2,,0
+DIJET,,BNM-080       JC8003,2,,0
+DIJET,NMDFM50-0010,"ALX-4050R-22            (D50,d22,Z4,l50)",1,ראש כרסום מהיר DIJET לטיטניום/אלומיניום,0.05
+DIJET,NDMBB08-0010,BNM-080                           JC5003,1,"להב מתק""ש כדורי MIROR.BALL",67.14
+DIJET,NDMBB08-0030,BNM-080                           JC5015,1,"להב מתק""ש כדורי MIROR.BALL",67.14
+DIJET,NDMBS06-0016,"BNMS-060017S-S06C(D06,d6.0,l17,L60)",1,"קנה מתק""ש ,קצר,ל-MIRROR BALL",569.04
+DIJET,NDMBS06-0010,"BNMS-060030T-S10 (D06,d10,l0=15,l30,L80)",1,"קנה פלדה ,קצר,ל-MIRROR BALL",586.52
+DIJET,NDMBS06-0015,"BNMS-060030T-S10C(D06,d10,l0=30,l30,L80)",1,"קנה מתק""ש ,קצר,ל-MIRROR BALL",644.84
+DIJET,NMTEMRD-0400,"DDM-2160-40-W16     (D09,A16,d16,L88,Z2)",1,"כר'אצ',לוחית עגולה,לוח'RD0702",261.34
+DIJET,DOCSAR160030,DV-OCSAR4160-30(D16l32L110d16R30)JC8000H,1,כרסום אצבע DIJET SUPER ALLOYS,0.04
+DIJET,DSEH6100-010,"DV-SEHH6100-R02 (D10,l25,L80,Z6) JC8000H",1,"כרסום אצבע מתק""ש לפלדות קשות",188.48
+DIJET,DSEH6120-010,"DV-SEHH6120-R02 (D12,l30,L100,Z6)JC8000H",1,"כרסום אצבע מתק""ש לפלדות קשות",474.1
+DIJET,NMEXSKS-0350,"EXSKS-5063R-27     (D63,d27,F50,Z5*wn09)",1,"כרס' high feed milling,לוח' 6 פינות עבודה",778.35
+DIJET,,EXTDM-5052R-12-22,1,"כרס' high feed milling,לוח' 6 פינות עבודה",0
+DIJET,NMEXSKS-0500,"EXSKS-6080R-27     (D80,d27,F??,Z6*wn09)",1,"כרס' high feed milling,לוח' 6 פינות עבודה",1010.27
+DIJET,NMTFHEP-0005,"HEP-3050R-08-22         (D50,d22,F65,Z3)",1,"כרס'שטח,לוחית משובעת XDMW0806",584.02
+DIJET,NMTFHEP-0020,"HEP-4063R-08-27         (D63,d27,F50,Z4)",1,"כרס'שטח,לוחית משובעת XDMW0806",652.72
+DIJET,NDMRB20-0300,HRM-200-R30   (H.F.C)             JC8015,1,XDHW 0206-10,118.02
+DIJET,NMMBN10-0010,"MBN-100-M6-H     (L=18,IMTERNAL COOLENT)",1,"ראש כרסום כדורי מתברג DIJET,",268.19
+DIJET,NMMCM25-0400,"MCM-3343-M16             (D33-43,L43,Z3)",1,"ראש כרסום 45 מע', מתברג, לוח'SP0903",514.65
+DIJET,NMMEC13-0010,"MEC-2025-M12  (D25,Z1+1,ZP/ZD13,L35,M12)",1,"ראש כר',מתברג,לוחית ZP/ZD 13T3",628.17
+DIJET,NMMEC13-0020,"MEC-2026-M12  (D26,Z1+1,ZP/ZD13,L35,M12)",1,"ראש כר',מתברג,לוחית ZP/ZD 13T3",541.72
+DIJET,NMMIC13-0020,"MIC-3025-M12     (D25,Z3,ZP13T3,L35,M12)",1,"ראש כר',מתברג,לוחית ZPMT13T3",489.11
+DIJET,NMMQX32-0020,"MQX-6032-M16            (D32,Z6,L43,M16)",1,"ראש כר',מתברג,לוחית EP10",516.94
+DIJET,NMMRN20-0010,"MRN-200-M10-H    (L=30,IMTERNAL COOLENT)",1,"ראש כרסום כדורי מתברג DIJET,",347.03
+DIJET,NMDDMSH-0300,"MSH-3033-M16           (D33,Z3*WD06,M16)",1,"ראש כר',HFM,מתברג,לוח'WD06T3",536.15
+DIJET,NMDDMSH-0400,"MSH-4032-M16           (D32,Z4*WD05,M16)",1,"ראש כר',HFM,מתברג,לוח'WD0503",812.29
+DIJET,NMCS200-0010,MSN-M10-20-S20C                   (L=80),1,"קנה מתק""ש DIJET, קצה מתברג",587
+DIJET,NMCS200-0040,MSN-M10-40-S20C                   (L=80),1,"קנה מתק""ש DIJET, קצה מתברג",638.9
+DIJET,NMCS120-0050,"MSN-M6-90S-S12C            (D12,M6,L=90)",1,"קנה מתק""ש DIJET, קצה מתברג",739.28
+DIJET,NMCS160-0050,"MSN-M8-107S-S16C          (D16,M8,L=107)",1,"קנה מתק""ש DIJET, קצה מתברג",580.04
+DIJET,NMMSW20-0010,"MSW-2018-M10      (D20,l18.5,L30,M10,Z2)",1,ראש כרסום DIJET כדורי עם לוחיות,728.78
+DIJET,NMFXD35-0065,"MXD-3035-M16  (95)      (D35,L43,M16,Z3)",1,"ראש כרס'מתב',95 מע',לוח'XD02",339.69
+DIJET,NDMRB10-0210,RNM-100-R15                       JC5015,1,"להב מתק""ש שטוח MIROR.RAD",84.67
+DIJET,NDMRS08-0050,"RNML-080075S-S08C(D08,d12,l0=18,l75,L140",1,"קנה פלדה ,ארוך,ל-MIRROR RADIUS",0
+DIJET,NDMRS08-0020,"RNMM-080053T-S12(D08,d12,l0=18,l53,L110)",1,"קנה פלדה ,בנוני,ל-MIRROR RADIUS",253.62
+DIJET,NDMRS08-0040,"RNMS-080020U-S08C(D08,d8.0,l20,L70",1,"קנה מתק""ש ,קצר,ל-MIRROR RADIUS",661.94
+DIJET,NMDDSDH-0220,"SDH-3220-R07-M10     (D22,Z3*RD07T2,M10)",1,"ראש כר',מתברג,לוח'RD07T2",341.99
+DIJET,NMDDSDH-0420,"SDH-4400-R12-M16     (D40,Z4*RD1204,M16)",1,"ראש כר',מתברג,לוח'RD1204",507.34
+DIJET,NMDSM25-0050,"SECM 2527S25    (D25,d25,L0=27,L140,l60)",1,"כרסום אצבע/שיקוע, קצר, רב-תכליתי",569.49
+DIJET,DZSEM4040010,"SEM 4040            (D4.0,d6,l12,L50,Z4)",1,"כרסום אצבע מתק""ש לשימוש כללי",65.68
+DIJET,DZSEM4100010,"SEM 4100          (D10.0,d10,l22,L70,Z4)",1,"כרסום אצבע מתק""ש לשימוש כללי",165.21
+DIJET,NMTESKS-0160,"SKS-2016-50-S16   (D16,d16,H50,Z2*wo04)",1,"כרס'אצ',לוחית WO04 ל-H.F.MILL",348.23
+DIJET,NMTSD12-0040,"SSD90-5063R-22   (D63,d27,H??,Z5,G-BODY)",1,"כר'מצ' (90),לוח' מרובעת,SD1205",536.4
+DIJET,NMTSE13-0040,"SSE45-4050R-22   (D400,d22,H??,Z4,G-BODY)",1,"כר'מצ' (45),לוח' מרובעת,SE13T3",571.25
+DIJET,NMTSE13-0050,"SSE45-5050R-22   (D50,d22,H??,Z5,G-BODY)",1,"כר'מצ' (45),לוח' מרובעת,SE13T3",699.78
+DIJET,NMEMB16-0010,"SWB-16050S-S16     (D16,d16,L???,l50,Z2)",1,כרסום אצבע כדורי ארוך SWING-BALL,451.33
+DIJET,NMTFMRP-0110,"TDM-5052-12R-22     (D52,A50,F40,d22,Z5)",1,"כרס'שטח,לוחית עגולה,RP1204",0.04
+DIJET,,BNMS 080025S-S08C,1,,0
+DIJET,,EXSKS-4052R-22,1,,0
+DIJET,,MBX-250-M12,1,,0
+DIJET,,MPM-5020-M10,1,,0
+DIJET,,MQX2016-M8    (32140-6914),1,MODULAR HEAD SYSTEM,0
+DIJET,,MQX-4020-M10  (32140-Z6590),1,MODULAR HEAD SYSTEM,0
+DIJET,,MSG-5035-09-M16  (32150-Z3999),1,MODULAR HEAD SYSTEM,0
+DIJET,,MSG-3025-09-M12,1,MODULAR HEAD SYSTEM,0
+DIJET,,SEHH 6080-R10 DH102,1,,0
+DIJET,,TDM-5050R-12-22,1,,0
+DIJET,,TEZ 2000  JC8050,1,,0
+DIJET,,TEZD 1400S16-ML,1,,0
+DIJET,,TEZD 1400S16-MS,1,,0
+DIJET,,TEZD 1600S20-ML,1,,0
+DIJET,,TEZD 2000S25-MS,1,,0
+DIJET,,TEZD 2000S25-ML,1,,0
+DIJET,,TLZD2000S25-SS,1,מקדח,0
+DIJET,,TLZD2000-M10,1,,0
+DIJET,,TLZ2000 JC7550,1,,0
+AKKO,"AEM90,AD1003-D16",,1,,0
+AKKO,"AEM90,AD1003-D17",,4,,0
+AKKO,"AEM90,AD1003-D20",,4,,0
+AKKO,"AEM90,AD1003-D21",,6,,0
+AKKO,"AEM90,AD1003-D25",,3,,0
+AKKO,"AEM90,AP10-D16-W16",,2,,0
+AKKO,"AEM90,AP10-D20-W20",,1,,0
+AKKO,"AEM90,AP16DJ-D25",,4,,0
+AKKO,"AEM95,XD0206-D25",,1,,0
+AKKO,"AEMR,RD1003-D20",,2,,0
+AKKO,"AEMR,RD1003-D25",,2,,0
+AKKO,"AEMR,RD1004-D25",,4,,0
+AKKO,"AEMR,RD1004-D32",,4,,0
+AKKO,"AEMR,RD1004-D32",,2,,0
+AKKO,"AEMR,RD1204-D42",,3,,0
+AKKO,AFM42C-XD0806-D063,,1,,0
+AKKO,AFM42C-XD0806-D080,,1,,0
+AKKO,"AFM45S,SE13-D050",,4,,0
+AKKO,"AFM45S,SE13-D063",,3,,0
+AKKO,"AFM45,SE13-D080",,2,,0
+AKKO,AFM88C-SN1206-D063,,1,,0
+AKKO,"AFM90,SP1004-D040",,4,,0
+AKKO,"AFM90,SP1004-D050",,2,,0
+AKKO,"AFM90S,SD1204-D063",,1,,0
+AKKO,"AFM95C,XD0310-D052",,2,,0
+AKKO,"AFMRC,RD1204-D032",,4,,0
+AKKO,"AFMRC,RD1204-D040",,5,,0
+AKKO,"AFMRC,RD1204-D052",,3,,0
+AKKO,"AFMRC,RD1204-D063",,1,,0
+AKKO,"AFMRC,RD12T3-D040",,1,,0
+AKKO,"AFMRC,RD12T3-D052",,2,,0
+AKKO,"AHFM,EP1003-D050",,2,,0
+AKKO,"AHFM,EP1003-D063",,2,,0
+AKKO,"AHFM,EP1003-D16",,5,,0
+AKKO,"AHFM,EP1003-D20",,4,,0
+AKKO,"AHFM,EP1003-D25",,2,,0
+AKKO,"AHFM,EP1003-D32",,4,,0
+AKKO,"AHFM,EP1003-D42",,1,,0
+AKKO,"AHFM,SP1004-D063",,5,,0
+AKKO,"AHFM,SP1004-D52",,5,,0
+AKKO,AP10-D25-W25 L100,,4,,0
+AKKO,AFM45C - SN1206 D050 A22 Z05 H,,1,,0
+ALLIED,NDTH262-0011,#132A-0101 (26.19)     CPM- M4+TIALN/PVD,2,"להב קידוח, דגם HSSCO,T-A מצופה",0
+ALLIED,NDTH139-0011,#150A-.546  (13.87)    CPM-T15+TIALN/PVD,2,"להב קידוח, דגם HSSCO,T-A מצופה",26.29
+ALLIED,NDTH163-0011,#150A-.640  (16.26)    CPM-T15+TIALN/PVD,4,"להב קידוח, דגם HSSCO,T-A מצופה",26.29
+ALLIED,NDTH15240020,#150A-0020-SP(D=15.24) CPM-T15+TIALN/PVD,2,"להב קידוח, דגם HSSCO,T-A מצופה",91.43
+ALLIED,NDTH167-0011,#150A-0021  (16.67)    CPM-T15+TIALN/PVD,4,"להב קידוח, דגם HSSCO,T-A מצופה",26.29
+ALLIED,NDTH130-0020,#150A-13               CPM-T15+TIALN/PVD,2,"להב קידוח, דגם HSSCO,T-A מצופה",26.29
+ALLIED,NDTH165-0020,#150A-16.5             CPM-T15+TIALN/PVD,2,"להב קידוח, דגם HSSCO,T-A מצופה",26.29
+ALLIED,NDTH139-0010,#150T-.546               CPM-T15+TIN/PVD,2,"להב קידוח, דגם HSS  ,T-A מצופה",22.05
+ALLIED,NDTH163-0012,#150T-.640               CPM-T15+TIN/PVD,4,"להב קידוח, דגם HSS  ,T-A מצופה",22.05
+ALLIED,NDTB158-0010,#150T-0020-FB  (15.875)  CPM-T15+TIN/PVD,6,"להב קידוח שטוח מצופה, דגם T-A",110
+ALLIED,NDTB174-0010,#150T-0022-FB   (17.46)  CPM-T15+TIN/PVD,5,"להב קידוח שטוח מצופה, דגם T-A",117.22
+ALLIED,NDTB130-0010,#150T-13-FB              CPM-T15+TIN/PVD,8,"להב קידוח שטוח מצופה, דגם T-A",102.41
+ALLIED,NDTH140-0010,#150T-14.0               CPM-T15+TIN/PVD,4,"להב קידוח, דגם HSS  ,T-A מצופה",52.26
+ALLIED,NDTB140-0010,#150T-14-FB              CPM-T15+TIN/PVD,8,"להב קידוח שטוח מצופה, דגם T-A",95.15
+ALLIED,NDTH155-0010,#150T-15.5               CPM-T15+TIN/PVD,3,"להב קידוח, דגם HSS  ,T-A מצופה",22.05
+ALLIED,NDTB150-0010,#150T-15-FB              CPM-T15+TIN/PVD,11,"להב קידוח שטוח מצופה, דגם T-A",93.86
+ALLIED,NDTB160-0010,#150T-16-FB              CPM-T15+TIN/PVD,16,"להב קידוח שטוח מצופה, דגם T-A",93.86
+ALLIED,NDTB170-0010,#150T-17-FB              CPM-T15+TIN/PVD,8,"להב קידוח שטוח מצופה, דגם T-A",102.41
+ALLIED,NDTH17860010,#151A-.703  (17.86)   CPM- T15+TIALN/PVD,8,"להב קידוח, דגם HSSCO,T-A מצופה",27.54
+ALLIED,NDTH226-0011,#151A-.890  (22.62)   CPM- T15+TIALN/PVD,4,"להב קידוח, דגם HSSCO,T-A מצופה",29.48
+ALLIED,NDTH206-0010,#151A-0026  (20.64)   CPM- T15+TIALN/PVD,4,"להב קידוח, דגם HSSCO,T-A מצופה",6.1
+ALLIED,NDTH238-0012,#151A-0030  (23.81)   CPM- T15+TIALN/PVD,4,"להב קידוח, דגם HSSCO,T-A מצופה",29.48
+ALLIED,NDTH205-0013,#151A-20.5            CPM- T15+TIALN/PVD,4,"להב קידוח, דגם HSSCO,T-A מצופה",29.48
+ALLIED,NDTH240-0030,#151A-24.0-SP         CPM- T15+TIALN/PVD,2,"להב קידוח, דגם HSSCO,T-A מצופה,זוית 90",104.24
+ALLIED,NDTH186-0011,#151T-.734  (D=17.64)    CPM-T15+TIN/PVD,2,"להב קידוח, דגם HSS  ,T-A מצופה",25.23
+ALLIED,NDTH218-0010,#151T-.859    (21.83)    CPM-T15+TIN/PVD,3,"להב קידוח, דגם HSS  ,T-A מצופה",25.23
+ALLIED,NDTH226-0010,#151T-.8906   (22.62)    CPM-T15+TIN/PVD,2,"להב קידוח, דגם HSS  ,T-A מצופה",25.23
+ALLIED,NDTB180-0010,#151T-18.0-FB (18.00)  CPM-T15+TIALN/PVD,6,"להב קידוח שטוח מצופה, דגם T-A",104
+ALLIED,NDTB190-0010,#151T-19.0-FB (19.00)  CPM-T15+TIALN/PVD,6,"להב קידוח שטוח מצופה, דגם T-A",104.71
+ALLIED,NDTB200-0010,#151T-20.0-FB (20.00)  CPM-T15+TIALN/PVD,4,"להב קידוח שטוח מצופה, דגם T-A",104.13
+ALLIED,NDTB210-0010,#151T-21.0-FB (21.00)  CPM-T15+TIALN/PVD,2,"להב קידוח שטוח מצופה, דגם T-A",106.19
+ALLIED,NDTB220-0010,#151T-22.0-FB (22.00)  CPM-T15+TIALN/PVD,6,"להב קידוח שטוח מצופה, דגם T-A",114.31
+ALLIED,NDTB230-0010,#151T-23.0-FB (23.00)  CPM-T15+TIALN/PVD,4,"להב קידוח שטוח מצופה, דגם T-A",98.22
+ALLIED,NDTH317-0015,#152A-0108-SP (31.75)  CPM T15+TIALN/PVD,2,"להב קידוח, דגם HSSCO,T-A מצופה,זוית 90",116.04
+ALLIED,NDTH325-0015,#152A-0109   (32.54)   CPM T15+TIALN/PVD,8,"להב קידוח, דגם T-A, מתקש מצופה",85.38
+ALLIED,NDTH250-0013,#152A-25     (25.00)   CPM T15+TIALN/PVD,4,"להב קידוח, דגם T-A, מתקש מצופה",107.88
+ALLIED,NDTH330-0022,#152A-33.0             CPM T15+TIALN/PVD,6,"להב קידוח, דגם T-A, מתקש מצופה",91.89
+ALLIED,NDTH262-0013,#152T-0101  (D=26.19)    CPM-T15+TIN/PVD,2,"להב קידוח, דגם HSS  ,T-A מצופה",28.95
+ALLIED,NDTH288-0011,#152T-0104  (D=28.58)   CPM- T15+TIN/PVD,4,"להב קידוח, דגם HSS  ,T-A מצופה",28.95
+ALLIED,NDTH317-0011,#152T-0108  (D=31.75)   CPM- T15+TIN/PVD,2,"להב קידוח, דגם HSS  ,T-A מצופה",28.95
+ALLIED,NDTH258-0011,#152T-1.015  (D=25.8)   CPM- T15+TIN/PVD,4,"להב קידוח, דגם HSS  ,T-A מצופה",28.95
+ALLIED,NDTB206-0010,#152T-26.0-FB (26.00)  CPM-T15+TIALN/PVD,4,"להב קידוח שטוח מצופה, דגם T-A",110
+ALLIED,NDTB270-0010,#152T-27-FB              CPM-T15+TIN/PVD,4,"להב קידוח שטוח מצופה, דגם T-A",113.33
+ALLIED,NDTB280-0010,#152T-28-FB              CPM-T15+TIN/PVD,4,"להב קידוח שטוח מצופה, דגם T-A",114.91
+ALLIED,NDTB300-0010,#152T-30-FB              CPM-T15+TIN/PVD,6,"להב קידוח שטוח מצופה, דגם T-A",114.91
+ALLIED,NDTB320-0010,#152T-32-FB              CPM-T15+TIN/PVD,6,"להב קידוח שטוח מצופה, דגם T-A",117.85
+ALLIED,NDTB350-0010,#152T-35-FB   (35.00)    CPM-T15+TIN/PVD,6,"להב קידוח שטוח מצופה, דגם T-A",119.31
+ALLIED,NDTH430-0010,#153T-43.0              CPM- T15+TIN/PVD,2,"להב קידוח, דגם HSSCO,T-A מצופה",37.18
+ALLIED,NDTH119-0010,#15ZA-0015 (11.91)     CPM-T15+TIALN/PVD,6,"להב קידוח, דגם HSSCO,T-A מצופה",0
+ALLIED,NDTH120-0015,#15ZT-12-FB             CPM- T15+TIN/PVD,6,"להב קידוח, דגם HSS  ,T-A מצופה",89.47
+ALLIED,NDTH147-0011,#180A-.578  (14.68)        M48+TIALN/PVD,6,"להב קידוח, דגם HSS  ,T-A מצופה",76.78
+ALLIED,NDTH143-0020,#180A-0018  (14.27)        M48+TIALN/PVD,2,"להב קידוח, דגם HSS  ,T-A מצופה",71.61
+ALLIED,NDTH151-0020,#180A-0019  (15.08)        M48+TIALN/PVD,4,"להב קידוח, דגם HSS  ,T-A מצופה",72.86
+ALLIED,NDTH159-0020,#180A-0020  (15.87)        M48+TIALN/PVD,2,"להב קידוח, דגם HSS  ,T-A מצופה",73.27
+ALLIED,NDTH145-0030,#180A-14.5                 M48+TIALN/PVD,6,"להב קידוח, דגם HSSCO,T-A מצופה",87.11
+ALLIED,NDTH150-0020,#180A-15.0                 M48+TIALN/PVD,2,"להב קידוח, דגם HSS  ,T-A מצופה",94.23
+ALLIED,NDTH155-0020,#180A-15.5                 M48+TIALN/PVD,4,"להב קידוח, דגם HSS  ,T-A מצופה",73.24
+ALLIED,NDTH150-0025,#180A-16.0                 M48+TIALN/PVD,4,"להב קידוח, דגם HSS  ,T-A מצופה",83.49
+ALLIED,NDTH165-0030,#180A-16.5                 M48+TIALN/PVD,4,"להב קידוח, דגם HSS  ,T-A מצופה",90.43
+ALLIED,NDTH170-0020,#180A-17.0                 M48+TIALN/PVD,6,"להב קידוח, דגם HSS  ,T-A מצופה",82.64
+ALLIED,NDTH202-0011,#181A-.796  (20.24)        M48+TIALN/PVD,6,"להב קידוח, דגם HSSCO,T-A מצופה",83.37
+ALLIED,NDTH234-0011,#181A-.9219 (23.42)        M48+TIALN/PVD,20,"להב קידוח, דגם HSSCO,T-A מצופה",80.11
+ALLIED,NDTH183-0013,#181A-0023  (D=18.26)      M48+TIALN/PVD,4,"להב קידוח, דגם HSSCO,T-A מצופה",98.83
+ALLIED,NDTH198-0013,#181A-0025  (D=19.84)      M48+TIALN/PVD,22,"להב קידוח, דגם HSSCO,T-A מצופה",105.2
+ALLIED,NDTH214-0012,#181A-0027  (21.43)        M48+TIALN/PVD,4,"להב קידוח, דגם HSSCO,T-A מצופה",80
+ALLIED,NDTH222-0012,#181A-0028  (22.223)       M48+TIALN/PVD,4,"להב קידוח, דגם HSSCO,T-A מצופה",79.03
+ALLIED,NDTH238-0010,#181A-0030  (D=23.81)      M48+TIALN/PVD,8,"להב קידוח, דגם HSSCO,T-A מצופה",86.22
+ALLIED,NDTH180-0014,#181A-18.0                 M48+TIALN/PVD,1,"להב קידוח, דגם HSSCO,T-A מצופה",79.71
+ALLIED,NDTH185-0020,#181A-18.5                 M48+TIALN/PVD,4,"להב קידוח, דגם HSSCO,T-A מצופה",80
+ALLIED,NDTH195-0011,#181A-19.5                 M48+TIALN/PVD,4,"להב קידוח, דגם HSSCO,T-A מצופה",79.16
+ALLIED,NDTH200-0012,#181A-20.0                 M48+TIALN/PVD,4,"להב קידוח, דגם HSSCO,T-A מצופה",21.98
+ALLIED,NDTH220-0015,#181A-22.0                 M48+TIALN/PVD,2,"להב קידוח, דגם HSSCO,T-A מצופה",91.49
+ALLIED,NDTH230-0011,#181A-23.0                 M48+TIALN/PVD,8,"להב קידוח, דגם T-A, מתקש מצופה",99.3
+ALLIED,NDTH240-0013,#181A-24.0                 M48+TIALN/PVD,6,"להב קידוח, דגם HSSCO,T-A מצופה",84.68
+ALLIED,NDTH246-0020,#182A-0031      (24.61)   M48+TIALN/PVD,8,"להב קידוח, דגם T-A, מתקש מצופה",93.29
+ALLIED,NDTH278-0014,#182A-0103 (27.78)         M48+TIALN/PVD,14,"להב קידוח, דגם T-A, מתקש מצופה",94.15
+ALLIED,NDTH286-0010,#182A-0104  (28.57)        M48+TIALN/PVD,6,"להב קידוח, דגם T-A, מתקש מצופה",94.15
+ALLIED,NDTH294-0010,#182A-0105  (29.37)        M48+TIALN/PVD,10,"להב קידוח, דגם T-A, מתקש מצופה",94.15
+ALLIED,NDTH302-0010,#182A-0106  (30.16)        M48+TIALN/PVD,14,"להב קידוח, דגם T-A, מתקש מצופה",94.15
+ALLIED,NDTH318-0010,#182A-0108  (31.75)        M48+TIALN/PVD,4,"להב קידוח, דגם T-A, מתקש מצופה",93.07
+ALLIED,NDTH333-0012,#182A-0110    (33.34)      M48+TIALN/PVD,8,"להב קידוח, דגם HSS  ,T-A מצופה",57.54
+ALLIED,NDTH258-0012,#182A-1.0156 (25.80)       M48+TIALN/PVD,4,"להב קידוח, דגם T-A, מתקש מצופה",120.64
+ALLIED,NDTH266-0012,#182A-1.0469 (26.59)       M48+TIALN/PVD,6,"להב קידוח, דגם T-A, מתקש מצופה",0
+ALLIED,NDTH270-0011,#182A-27.0                 M48+TIALN/PVD,2,"להב קידוח, דגם T-A, מתקש מצופה",93.07
+ALLIED,NDTH280-0013,#182A-28.0                 M48+TIALN/PVD,8,"להב קידוח, דגם T-A, מתקש מצופה",96.64
+ALLIED,NDTH300-0030,#182A-30.0                 M48+TIALN/PVD,2,"להב קידוח, דגם T-A, מתקש מצופה",105.38
+ALLIED,NDTH310-0012,#182A-31.0                 M48+TIALN/PVD,4,"להב קידוח, דגם T-A, מתקש מצופה",105.38
+ALLIED,NDTH320-0015,#182A-32.0                 M48+TIALN/PVD,10,"להב קידוח, דגם T-A, מתקש מצופה",105.38
+ALLIED,NDTH340-0015,#182A-34.0                 M48+TIALN/PVD,2,"להב קידוח, דגם T-A, מתקש מצופה",7.98
+ALLIED,NDTH105-0020,#18YA-10.5                 M48+TIALN/PVD,4,"להב קידוח, דגם HSS  ,T-A מצופה",69.38
+ALLIED,NDTH110-0020,#18YA-11.0                 M48+TIALN/PVD,2,"להב קידוח, דגם HSS  ,T-A מצופה",89.24
+ALLIED,NDTH095-0020,#18YA-9.5                  M48+TIALN/PVD,2,"להב קידוח, דגם HSS  ,T-A מצופה",66.74
+ALLIED,NDTH119-0015,#18ZA-0015 (11.91)         M48+TIALN/PVD,2,"להב קידוח, דגם HSSCO,T-A מצופה",88.5
+ALLIED,NDTC135-0010,#1C20A-13.5            M.G.K20-TIALN/PVD,2,"להב קידוח, דגם T-A, מתקש מצופה",0.01
+ALLIED,NDTC140-0010,#1C20A-14.0            M.G.K20-TIALN/PVD,2,"להב קידוח, דגם T-A, מתקש מצופה",40.9
+ALLIED,NDTC198-0011,#1C21A-0025  (19.844)  M.G.K20+TIALN/PVD,4,"להב קידוח, דגם T-A, מתקש מצופה",9.96
+ALLIED,NDTC220-0020,#1C21A-22.0            M.G.K20-TIALN/PVD,3,"להב קידוח, דגם T-A, מתקש מצופה",46.74
+ALLIED,NDTC135-0011,#1C50A-13.5            M.G.P40+TIALN/PVD,4,"להב קידוח, דגם T-A, מתקש מצופה",40.9
+ALLIED,NDTC222-0011,#1C51A-0028 (22.223)   M.G.P40-TIALN/PVD,6,"להב קידוח, דגם T-A, מתקש מצופה",46.74
+ALLIED,NDTC220-0013,#1C51A-22.0            M.G.P40-TIALN/PVD,1,"להב קידוח, דגם T-A, מתקש מצופה",46.74
+ALLIED,NDTC240-0013,#1C51A-24.0            M.G.P40-TIALN/PVD,4,"להב קידוח, דגם T-A, מתקש מצופה",120.41
+ALLIED,NDTC254-0010,#1C52A-0100 (25.4)     M.G.P40-TIALN/PVD,2,"להב קידוח, דגם T-A, מתקש מצופה",136.75
+ALLIED,NHSBA20-0013,"#21000S-16ER(RANGE13.0-17.5,B=22,d=16ER)",2,"מקדחSTUB,תעול ישר,קנה ישר+קרור",416.96
+ALLIED,NHSBA20-0015,"#21000S-20ER(RANGE13.0-17.5,B=22,d=20ER)",3,"מקדחSTUB,תעול ישר,קנה ישר+קרור",416.96
+ALLIED,NHSBA20-0010,"#21000S-20FM(RANGE13.0-17.5,B=22,d20*42)",2,"מקדחSTUB,תעול ישר,קנה ישר+קרור",142.78
+ALLIED,NHSBA20-0020,"#21005S-20FM(RANGE15.5-17.5,B=22,d20*42)",2,"מקדחSTUB,תעול ישר,קנה ישר+קרור",155.1
+ALLIED,NHSBA25-0010,"#21010S-25FM(RANGE17.8-24.0,B=48,d25*53)",8,"מקדחSTUB,תעול ישר,קנה ישר+קרור",117.21
+ALLIED,NHSBA25-0020,"#21015S-25FM(RANGE22.0-24.0,B=57,d25*53)",2,"מקדחSTUB,תעול ישר,קנה ישר+קרור",306.31
+ALLIED,NHSBA32-0010,"#21020S-32FM(RANGE24.6-35.0,B=57,d32*58)",3,"מקדחSTUB,תעול ישר,קנה ישר+קרור",189.1
+ALLIED,NHSBA16-0020,"#210Z0S-16FM(RANGE11.5-12.5,B=19,d16*42)",3,"מקדחSTUB,תעול ישר,קנה ישר+קרור",504.97
+ALLIED,NHSTA20-0030,"#22000S-20FM(RANGE13.0-17.5,B=35,d20*42)",2,"מקדח קצר,תעול ישר,קנה ישר+קרור",388.82
+ALLIED,NHSTA20-0040,"#22005S-20FM(RANGE15.5-17.5,B=35,d20*42)",2,"מקדח קצר,תעול ישר,קנה ישר+קרור",388.82
+ALLIED,NHSTA03-0011,"#22010S-003I  (RANGE17.8-24.0,B=70,MT=3)",2,"מקד'קצר,תעול ישר,קנה קוני+קרור",110.77
+ALLIED,NHSTA25-0010,"#22010S-25FM(RANGE17.8-24.0,B=67,d25*53)",3,"מקדח קצר,תעול ישר,קנה ישר+קרור",441.73
+ALLIED,NHSTA25-0020,"#22015S-25FM(RANGE22.0-24.0,B=67,d25*53)",5,"מקדח קצר,תעול ישר,קנה ישר+קרור",409.42
+ALLIED,NHSTA32-0010,"#22020S-32FM(RANGE24.6-35.0,B=86,d32*58)",1,"מקדח קצר,תעול ישר,קנה ישר+קרור",394.01
+ALLIED,NHSTA40-0010,"#22030S-40FM(RANGE35.7-47.6,B121,d40*70)",1,"מקדח קצר,תעול ישר,קנה ישר+קרור",561.87
+ALLIED,NHSTA40-0020,"#22040S-40FM(RANGE48.0-65.1,B130,d40*70)",1,"מקדח קצר,תעול ישר,קנה ישר+קרור",614.09
+ALLIED,NHSTA20-0020,"#220Z0S-20FM(RANGE11.1-12.7,B=32,d20*42)",2,"מקדח קצר,תעול ישר,קנה ישר+קרור",378.5
+ALLIED,NHMTA03-0010,"#23010H-003M (RANGE17.8-24.0,B=121,MT=3)",1,"מקדח MED,ספירלי,קנה קוני+קרור",173.16
+ALLIED,NHMTA25-0010,"#23010H-25FM(RANGE17.8-24.0,B118,d25*53)",4,"מקדח MED,ספירלי,קנה ישר+קרור",443.99
+ALLIED,NHMTA03-0011,"#23010S-003I (RANGE17.8-24.0,B=121,MT=3)",2,"מקדחMED,תעול ישר,קנה קוני+קרור",160.42
+ALLIED,NHMTA03-0022,"#23015H-003I  (RANGE22.0-24.0,B121,MT=3)",2,"מקדח MED,ספירלי,קנה קוני+קרור",185.91
+ALLIED,NHMTA25-0020,"#23015H-25FM(RANGE18.0-20.0,B118,d25*53)",2,"מקדח MED,ספירלי,קנה ישר+קרור",508.09
+ALLIED,NHMTA32-0010,"#23020H-32FM(RANGE24.6-35.0,B137,d32*58)",1,"מקדח MED,ספירלי,קנה ישר+קרור",633.85
+ALLIED,NHMTA32-0020,"#23025H-32FM(RANGE30.0-35.0,B137,d32*58)",1,"מקדח MED,ספירלי,קנה ישר+קרור",211.4
+ALLIED,NHMTA40-0010,"#23030H-40FM(RANGE35.7-47.6,B165,d40*70)",2,"מקדח MED,ספירלי,קנה ישר+קרור",264.52
+ALLIED,NHLTA20-0030,"#24000H-20FM(RANGE13.0-17.5,B=64,d20*42)",1,"מקדח ארוך,ספירלי,קנה ישר+קרור",409.42
+ALLIED,NHLTA20-0040,"#24005H-20FM(RANGE15.5-17.5,B=64,d20*42)",6,"מקדח ארוך,ספירלי,קנה ישר+קרור",534.71
+ALLIED,NHLTA03-0014,"#24010H-003I (RANGE17.8-24.0,B=172,MT=3)",1,"מקדח ארוך,ספירלי,קנה קוני+קרור",183.78
+ALLIED,NHLTA25-0010,"#24010H-25FM(RANGE17.8-24.0,B168,d25*53)",4,"מקדח ארוך,ספירלי,קנה ישר+קרור",490.37
+ALLIED,NHLTA03-0013,"#24010S-003I (RANGE17.8-24.0,B=172,MT=3)",1,"מק'ארוך,תעול ישר,קנה קוני+קרור",167.85
+ALLIED,NHLTA03-0012,"#24010S-004I (RANGE17.8-24.0,B=172,MT=4)",2,"מק'ארוך,תעול ישר,קנה קוני+קרור",173.16
+ALLIED,NHLTA03-0020,"#24015H-003M (RANGE22.0-24.0,B=172,MT=3)",1,"מקדח ארוך,ספירלי,קנה קוני+קרור",196.53
+ALLIED,NHLTA25-0020,"#24015H-25FM(RANGE22.0-24.0,B167,d25*53)",6,"מקדח ארוך,ספירלי,קנה ישר+קרור",555.15
+ALLIED,NHLTA03-0022,"#24015S-003I (RANGE22.0-24.0,B=172,MT=3)",1,"מק'ארוך,תעול ישר,קנה קוני+קרור",179.53
+ALLIED,NHLTA04-0010,"#24020H-004M (RANGE24.6-35.0,B=187,MT=4)",2,"מקדח ארוך,ספירלי,קנה קוני+קרור",629.33
+ALLIED,NHLTA32-0010,"#24020H-32FM(RANGE24.6-35.0,B187,d32*58)",2,"מקדח ארוך,ספירלי,קנה ישר+קרור",567.86
+ALLIED,NHLTA04-0013,"#24020S-004I (RANGE24.6-35.0,B=187,MT=4)",2,"מק'ארוך,תעול ישר,קנה קוני+קרור",190.16
+ALLIED,NHLTA04-0020,"#24025H-004M (RANGE30.0-35.0,B=187,MT=4)",1,"מקדח ארוך,ספירלי,קנה קוני+קרור",227.34
+ALLIED,NHLTA32-0020,"#24025H-32FM(RANGE30.0-35.0,B187,d32*58)",3,"מקדח ארוך,ספירלי,קנה ישר+קרור",619.13
+ALLIED,NHLTA04-0030,"#24030H-004M (RANGE35.7-47.6,B=210,MT=4)",1,"מקדח ארוך,ספירלי,קנה קוני+קרור",747.53
+ALLIED,NHLTA40-0010,"#24030H-40FM(RANGE35.7-47.6,B210,d40*70)",1,"מקדח ארוך,ספירלי,קנה ישר+קרור",747.53
+ALLIED,NHLTA04-0031,"#24030S-004I (RANGE35.7-47.6,B=210,MT=4)",1,"מק'ארוך,תעול ישר,קנה קוני+קרור",211.4
+ALLIED,NHLTA40-0020,#24040S-0051,1,"מקדח ארוך,ספירלי,קנה ישר+קרור",0
+ALLIED,NHLTA20-0010,"#240Y0H-20FM (RANGE9.5-11.0,B=60,d20*42)",1,"מקדח ארוך,ספירלי,קנה ישר+קרור",413.7
+ALLIED,NHLTA20-0020,"#240Z0H-20FM(RANGE11.1-12.7,B=60,d20*42)",3,"מקדח ארוך,ספירלי,קנה ישר+קרור",493.06
+ALLIED,NHETA02-0032,"#25000H-002I (RANGE13.0-17.5,B=114,MT=2)",1,"מק' א.מאוד,ספיר',קנה קוני+קרור",175.29
+ALLIED,NHETA02-0031,"#25000S-002I (RANGE13.0-17.5,B=114,MT=2)",2,"מק'ארוך,תעול ישר,קנה קוני+קרור",0
+ALLIED,NHETA02-0035,"#25000S-075L(RANGE13.0-15.5,B114,D19.05",1,"מק' בינוני,,קנה ישר+קרור פנימי",406
+ALLIED,NHETA02-0033,"#25005H-002I (RANGE15.5-17.5,B=114,MT=2)",4,"מק' א.מאוד,ספיר',קנה קוני+קרור",175.29
+ALLIED,NHETA02-0040,"#25005H-002M (RANGE15.5-17.5,B=114,MT=2)",1,"מק' א.מאוד,ספיר',קנה קוני+קרור",161.37
+ALLIED,NHETA20-0040,"#25005H-20FM(RANGE15.5-17.5,B114,d20*42)",5,"מקדח א. מא',ספיר',קנה ישר+קרור",180.59
+ALLIED,NHETA25-0010,"#25010H-25FM(RANGE17.8-24.0,B270,d25*53)",1,"מקדח א. מא',ספיר',קנה ישר+קרור",328.09
+ALLIED,NHETA03-0021,"#25015H-003I (RANGE22.0-24.0,B=273,MT=3)",2,"מק'ארוך,תעול ישר,קנה קוני+קרור",326.45
+ALLIED,NHETA25-0020,"#25015H-25FM(RANGE22.0-24.0,B270,d25*53)",4,"מקדח א. מא',ספיר',קנה ישר+קרור",346.04
+ALLIED,NHETA04-0011,"#25020S-004I (RANGE24.6-35.0,B=289,MT=4)",1,"מק'ארוך,תעול ישר,קנה קוני+קרור",213.53
+ALLIED,NHETA04-0021,"#25025S-004I (RANGE30.0-35.0,B=289,MT=4)",1,"מק'ארוך,תעול ישר,קנה קוני+קרור",227.34
+ALLIED,NHLTA40-0030,"#25030S-40FM(RANGE35.7-47.6,B349,d40*70)",1,"מקדח ארוך,תעולישר,קנה ישר+קרור",859.6
+ALLIED,NHETA20-0010,"#250Y0H-20FM(RANGE9.5-11.0,B=111,d20*42)",2,"מקדח א. מא',ספיר',קנה ישר+קרור",482.74
+ALLIED,NHETA20-0020,"#250Z0H-20FM(RANGE11.1-12.7,B111,d20*42)",2,"מקדח א. מא',ספיר',קנה ישר+קרור",456.6
+ALLIED,NHGTA02-0050,"#26000H-002I (RANGE13.0-17.5,B=178,MT=2)",2,"מק' א.מאוד,ספיר',קנה קוני+קרור",333.28
+ALLIED,NHGTA20-0050,"#26000H-20FM(RANGE13.0-17.5,B178,d20*42)",1,"מקדח א. מא',ספיר',קנה ישר+קרור",570.49
+ALLIED,NHGTA02-0055,"#26000S-075L(RANGE13.0-17.5B178,D19.05",1,"מק' בינוני,,קנה ישר+קרור פנימי",484.02
+ALLIED,NHGTA02-0060,"#26005H-002I (RANGE15.5-17.5,B=178,MT=2)",1,"מק' א.מאוד,ספיר',קנה קוני+קרור",526.94
+ALLIED,NHGTA20-0060,"#26005H-20FM(RANGE15.5-17.5,B178,d20*42)",1,"מקדח א. מא',ספיר',קנה ישר+קרור",545.38
+ALLIED,NHEXL20-0050,"#27000S-20FM(RANGE13.0-17.5,B295,d20*42)",2,"מקדח ארוך מאוד,תעול ישר,קנה ישר+קרור",521.05
+ALLIED,NHEXL25-0050,"#27010S-25FM(RANGE18.0-24.0,B457,d25*51)",2,"מקדח ארוך מאוד,תעול ישר,קנה ישר+קרור",547.59
+ALLIED,NHEXL32-0050,"#27020S-32FM(RANGE25.0-35.0,B511,d32*58)",1,"מקדח ארוך מאוד,תעול ישר,קנה ישר+קרור",647.03
+ALLIED,NHEXL20-0010,"#270Y0S-20FM(RANGE09.5-11.1,B222,d20*42)",2,"מקדח ארוך מאוד,תעול ישר,קנה ישר+קרור",583.7
+ALLIED,NHEXL20-0030,"#270Z0S-20FM(RANGE11.1-12.7,B222,d20*42)",3,"מקדח ארוך מאוד,תעול ישר,קנה ישר+קרור",600.71
+ALLIED,NHRCA2S-0011,#2T-2SR.................................,2,"טבעת קרור,מסתובבת,קנה קוניMT=2",0
+ALLIED,NHRCA3S-0011,#2T-3SR.................................,2,"טבעת קרור,מסתובבת,קנה קוניMT=3",104.6
+ALLIED,NHRCA4S-0011,#2T-4SR.................................,1,"טבעת קרור,מסתובבת,קנה קוניMT=4",20.19
+ALLIED,NDGH200-0020,#450H-0020       CPM-T15+AM200/PVD COAT.,8,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",70
+ALLIED,NDGH140-0010,#450H-14.0       CPM-T15+AM200/PVD COAT.,10,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",86.53
+ALLIED,NDGH150-0010,#450H-15.0       CPM-T15+AM200/PVD COAT.,16,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",73.66
+ALLIED,NDGH155-0010,#450H-15.5       CPM-T15+AM200/PVD COAT.,4,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",66.14
+ALLIED,NDGH160-0010,#450H-16.0       CPM-T15+AM200/PVD COAT.,14,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",76.95
+ALLIED,NDGH170-0015,#450H-17-HE      CPM-T15+AM200/PVD COAT.,3,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",81.03
+ALLIED,NDTH180-0030,#451A-18.0                 M48+TIALN/PVD,2,"להב קידוח, דגם HSSCO,GEN2 T-A מצופה",96.84
+ALLIED,NDGH186-0010,#451H-.734       CPM-T15+AM200/PVD COAT.,8,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",77.32
+ALLIED,NDGH203-0010,#451H-.801(20.34)CPM-T15+AM200/PVD COAT.,10,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",83.56
+ALLIED,NDGH218-0010,#451H-.859(21.83)CPM-T15+AM200/PVD COAT.,10,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",87.3
+ALLIED,NDGH234-0010,#451H-.9219      CPM-T15+AM200/PVD COAT.,12,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",87.3
+ALLIED,NDGH198-0010,#451H-0025(19.84)CPM-T15+AM200/PVD COAT.,2,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",83.56
+ALLIED,NDGH206-0010,#451H-0026(20.64)CPM-T15+AM200/PVD COAT.,10,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",74.98
+ALLIED,NDGH214-0010,#451H-0027(21.43)CPM-T15+AM200/PVD COAT.,10,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",87.3
+ALLIED,NDGH190-0010,#451H-19.0       CPM-T15+AM200/PVD COAT.,14,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",97.68
+ALLIED,NDGH200-0010,#451H-20.0       CPM-T15+AM200/PVD COAT.,6,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",90.56
+ALLIED,NDGH210-0010,#451H-21.0       CPM-T15+AM200/PVD COAT.,8,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",97.68
+ALLIED,NDGH210-0015,#451H-21.5       CPM-T15+AM200/PVD COAT.,6,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",87.3
+ALLIED,NDGH235-0010,#451H-23.5       CPM-T15+AM200/PVD COAT.,10,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",91.77
+ALLIED,NDGH240-0010,#451H-24.0       CPM-T15+AM200/PVD COAT.,8,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",90.56
+ALLIED,NDGH262-0010,#452H-0101 (21.19)CPM-T15+AM200/PVD COAT.,6,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",105.54
+ALLIED,NDGH270-0010,#452H-27.0       CPM-T15+AM200/PVD COAT.,6,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",105.11
+ALLIED,NDGH310-0010,#452H-31.0       CPM-T15+AM200/PVD COAT.,8,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",102.57
+ALLIED,NDGH320-0010,#452H-32.0       CPM-T15+AM200/PVD COAT.,6,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",113.33
+ALLIED,NDGH330-0010,#452H-33.0       CPM-T15+AM200/PVD COAT.,6,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",103.73
+ALLIED,NDGH397-0010,#453H-0118(39.69)CPM-T15+AM200/PVD COAT.,8,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",117.73
+ALLIED,NDGH413-0010,#453H-0120(41.27)CPM-T15+AM200/PVD COAT.,7,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",122.19
+ALLIED,NDGH445-0010,#453H-0124(44.45)CPM-T15+AM200/PVD COAT.,4,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",122.19
+ALLIED,NDGH476-0010,#453H-0128(47.63)CPM-T15+AM200/PVD COAT.,4,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",107.15
+ALLIED,NDGH360-0010,#453H-36.0       CPM-T15+AM200/PVD COAT.,5,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",121.25
+ALLIED,NDGH380-0010,#453H-38.0       CPM-T15+AM200/PVD COAT.,1,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",122.19
+ALLIED,NDGH420-0010,#453H-42.0       CPM-T15+AM200/PVD COAT.,5,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",113.39
+ALLIED,NDGH440-0010,#453H-44.0       CPM-T15+AM200/PVD COAT.,12,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",122.19
+ALLIED,NDGH450-0010,#453H-45.0       CPM-T15+AM200/PVD COAT.,6,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",122.19
+ALLIED,NDGH572-0015,#454H-0208     CPM-T15+AM200/PVD COATING,3,"להב קידוח, דגם HSSCO,GEN2 T-A מצופה",155.83
+ALLIED,NDGH480-0010,#454H-48.0     CPM-T15+AM200/PVD COATING,1,"להב קידוח, דגם HSSCO,GEN2 T-A מצופה",155.83
+ALLIED,NDGH540-0015,#454H-54.0     CPM-T15+AM200/PVD COATING,3,"להב קידוח, דגם HSSCO,GEN2 T-A מצופה",140.89
+ALLIED,NDGH620-0010,#454H-62.0     CPM-T15+AM200/PVD COATING,2,"להב קידוח, דגם HSSCO,GEN2 T-A מצופה",155.83
+ALLIED,NDGH100-0010,#45YH-10.0  D=10.0    CPM-T15+AM200/PVD,8,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",68.33
+ALLIED,NDGH105-0010,#45YH-10.5  D=10.5    CPM-T15+AM200/PVD,2,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",76
+ALLIED,NDGH111-0010,#45ZH-0014  D=11.11   CPM-T15+AM200/PVD,6,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",76
+ALLIED,NDGH115-0010,#45ZH-11.5  D=12.0    CPM-T15+AM200/PVD,6,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",76
+ALLIED,NDGH120-0010,#45ZH-12.0  D=12.0    CPM-T15+AM200/PVD,10,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",73.01
+ALLIED,NDGH125-0010,#45ZH-12.5  D=12.0    CPM-T15+AM200/PVD,2,"להב קידוח, דגם HSSCO,GEN2 T-A, מצופה",76
+ALLIED,NDGC150-0010,#4C10H-15   (15.00)M.G.P40+AM200 COATING,2,"להב קידוח מתקש מצופה, GEN2-TA",112.9
+ALLIED,NDGC170-0010,#4C10H-17   (17.00)M.G.P40+AM200 COATING,4,"להב קידוח מתקש מצופה, GEN2-TA",125.06
+ALLIED,NDGC198-0010,#4C11H-0025 (19.84)M.G.P40+AM200 COATING,4,"להב קידוח מתקש מצופה, GEN2-TA",129.99
+ALLIED,NDGC180-0010,#4C21H-18   (18.00)M.G.K20+AM200 COATING,2,"להב קידוח מתקש מצופה, GEN2-TA",152
+ALLIED,NDGC190-0010,#4C21H-19   (19.00)M.G.K20+AM200 COATING,2,"להב קידוח מתקש מצופה, GEN2-TA",152
+ALLIED,NDGC210-0010,#4C21H-21   (21.00)M.G.K20+AM200 COATING,2,"להב קידוח מתקש מצופה, GEN2-TA",152
+ALLIED,NDGC230-0010,#4C21H-23   (23.00)M.G.K20+AM200 COATING,2,"להב קידוח מתקש מצופה, GEN2-TA",152
+ALLIED,,#1024A-0227,2,,0
+ALLIED,,#150A-14-SP,2,,0
+ALLIED,,#150A-17-SP,3,,0
+ALLIED,,#150H-0020-FB,4,,0
+ALLIED,,#150H-15-FB,4,,0
+ALLIED,,#150T-.578-FB,4,,0
+ALLIED,,#150T-.640-FB,4,,0
+ALLIED,,#150T-0018-FB,4,,0
+ALLIED,,#150T-0021-FB,2,,0
+ALLIED,,#150T-0021-FB,2,,0
+ALLIED,,#150T-0026-FB,4,,0
+ALLIED,,#150T-14.5-FB,4,,0
+ALLIED,,#150T-15.5-FB,4,,0
+ALLIED,,#150T-16.5,2,,0
+ALLIED,,#150T-16.5-FB,4,,0
+ALLIED,,#151N-22,2,,0
+ALLIED,,#151T-0023-FB,4,,0
+ALLIED,,#151T-18.5-FB,4,,0
+ALLIED,,#151T-18.5-FB,2,,0
+ALLIED,,#151T-19.5-FB,4,,0
+ALLIED,,#151T-20.5-FB,4,,0
+ALLIED,,#151T-21.5-FB ,4,,0
+ALLIED,,#151T-22.5-FB,4,,0
+ALLIED,,#151T-24-FB,6,,0
+ALLIED,,#152A-0110      CPM T15+TIALN/PVD,2,,0
+ALLIED,,#152A-30-SP,2,,0
+ALLIED,,#152H-26.5-FB,6,,0
+ALLIED,,#152T-33-FB,4,,0
+ALLIED,,#153T-13.5-FB,4,,0
+ALLIED,,#153T-23.5-FB,4,,0
+ALLIED,,#153T-36-FB,2,,0
+ALLIED,,#153T-38-FB,2,,0
+ALLIED,,#153T-40-FB,2,,0
+ALLIED,,#153T-42-FB,2,,0
+ALLIED,,#153T-44-FB,1,,0
+ALLIED,,#153T-45-FB,2,,0
+ALLIED,,#154T-55,,,0
+ALLIED,,#15ZA-12-SP,2,,0
+ALLIED,,#15ZH-0014-FB,4,,0
+ALLIED,,#15ZH-0015-FB,4,,0
+ALLIED,,#15ZT-0016-FB,4,,0
+ALLIED,,#15ZT-12.5-FB,4,,0
+ALLIED,,#1C20A-16-FB,4,,0
+ALLIED,,#1C22H-26.5-FB,4,,0
+ALLIED,,#1C2YA-10-FB,2,,0
+ALLIED,,#210105-2,1,,0
+ALLIED,,#210Z0S-16ER,2,,0
+ALLIED,,#210Z0S-20ER,2,,0
+ALLIED,,#22015S-003M,1,,0
+ALLIED,,#220Y0S-20FM,3,,0
+ALLIED,,#24010H-003M,1,,0
+ALLIED,,#24500H-20FM,2,,0
+ALLIED,,#24510H-25FM,4,,0
+ALLIED,,#24520H-32FM,2,,0
+ALLIED,,#245Y0H-20FM,6,,0
+ALLIED,,#245Z0H-20FM,4,,0
+ALLIED,,#26010H-25FM,1,,0
+ALLIED,,#26500H-20FM,3,,0
+ALLIED,,#29000S-20FM,1,,0
+ALLIED,,#450H-0021,4,,0
+ALLIED,,#450H-13.5,6,,0
+ALLIED,,#450H-14.5,10,,0
+ALLIED,,#450H-17.0       CPM-T15+AM200/PVD COAT.,16,,0
+ALLIED,,#451-0023,4,,0
+ALLIED,,#451H-.7240,4,,0
+ALLIED,,#451H-.796,4,,0
+ALLIED,,#451H-.890,6,,0
+ALLIED,,#451H-0028       CPM-T15+AM200/PVD COAT.,4,,0
+ALLIED,,#451H-18.0       CPM-T15+AM200/PVD COAT.,6,,0
+ALLIED,,#451H-18.5,6,,0
+ALLIED,,#451H-19.5,6,,0
+ALLIED,,#451H-20.5,6,,0
+ALLIED,,#451H-21.5,10,,0
+ALLIED,,#451H-22.0       CPM-T15+AM200/PVD COAT.,4,,0
+ALLIED,,#451H-22.5       CPM-T15+AM200/PVD COAT.,10,,0
+ALLIED,,#451H-23.0       CPM-T15+AM200/PVD COAT.,4,,0
+ALLIED,,#452H-.976,8,,0
+ALLIED,,#452H-0100,6,,0
+ALLIED,,#452H-0104,6,,0
+ALLIED,,#452H-0106,2,,0
+ALLIED,,#452H-0108,4,,0
+ALLIED,,#452H-1.015,6,,0
+ALLIED,,#452H-24.5,6,,0
+ALLIED,,#452H-26,6,,0
+ALLIED,,#452H-26.5,3,,0
+ALLIED,,#452H-27.5,8,,0
+ALLIED,,#452H-28.5,8,,0
+ALLIED,,#452H-29,4,,0
+ALLIED,,#452H-29.5,6,,0
+ALLIED,,#452H-30,12,,0
+ALLIED,,#452H-30.5,8,,0
+ALLIED,,#452H-31.5,4,,0
+ALLIED,,#452H-32.5,8,,0
+ALLIED,,#452H-33.5,8,,0
+ALLIED,,#452H-34,12,,0
+ALLIED,,#452H-34.5,8,,0
+ALLIED,,#452H-35,6,,0
+ALLIED,,#453H-0113,5,,0
+ALLIED,,#453H-0114,3,,0
+ALLIED,,#453H-0119,10,,0
+ALLIED,,#453H-0123,5,,0
+ALLIED,,#453H-39,5,,0
+ALLIED,,#453H-41,5,,0
+ALLIED,,#453H-43,5,,0
+ALLIED,,#453H-44,7,,0
+ALLIED,,#453H-45.5,4,,0
+ALLIED,,#453H-46,5,,0
+ALLIED,,#454H-0200,4,,0
+ALLIED,,#454H-48,3,,0
+ALLIED,,#454H-49,3,,0
+ALLIED,,#454H-50,2,,0
+ALLIED,,#454H-52,3,,0
+ALLIED,,#454H-55,4,,0
+ALLIED,,#454H-56,3,,0
+ALLIED,,#454H-58,3,,0
+ALLIED,,#454H-59,3,,0
+ALLIED,,#454H-60,5,,0
+ALLIED,,#45ZH-.451,6,,0
+ALLIED,,#45ZH-.484,6,,0
+ALLIED,,#45ZH-.506,6,,0
+ALLIED,,#45ZH-0015,6,,0
+ALLIED,,#45ZH-0016,6,,0
+ALLIED,,#45ZH-12.5,4,,0
+ALLIED,,#4C10H-14,2,,0
+ALLIED,,#4C12H-25.7,4,,0
+ALLIED,,#4C1ZH-12,2,,0
+ALLIED,,#4C20H-14,2,,0
+ALLIED,,#4C20H-17,2,,0
+ALLIED,,#4C22H-1.015,2,,0
+ALLIED,,#4C2ZH-12,2,,0
+ALLIED,,#7C126P-26.5,3,,0
+ALLIED,,#7C226P-26.5,2,,0
+ALLIED,,#HTA1B05-25FM,1,,0
+ALLIED,,#HTA1B15-25FM,1,,0
+ALLIED,,#TAN1-20.00,2,,0
+ALLIED,,#TAP1-20.00,2,,0
+ALLIED,,#TAX1-20.00,4,,0
+ALLIED,,#XTP26-26.50,1,,0
+ALLIED,,#HXT0326S-32FM,1,,0
+ALLIED,,#TAX2-25.00,2,,0
+ALLIED,,#45H-17.5,6,,0
+ALLIED,,#TAX0-16.00,2,,0
+ALLIED,,#1C20A-16.5-FB,2,,0
+ALLIED,,#450H-640,6,,0
+ALLIED,,#450H-0018,6,,0
+ALLIED,,#1C20A-16.5-FB,2,,0
+DAPRA,APET120408-DMK25,,10,לוחית כרסום ,0
+DAPRA,DSS-1208-D-DMK30-IN,,10,לוחית כרסום ,0
+DAPRA,DSS-1208-D-DMK35-HM,,30,לוחית כרסום ,0
+DAPRA,DSS-1208-T-DMK35-IN,,30,לוחית כרסום ,0
+DAPRA,DSS-1208-T-DMP25-HM,,30,לוחית כרסום ,0
+DAPRA,DSS-1216-D-DMK30-IN,,10,לוחית כרסום ,0
+DAPRA,DSS-1216-D-DMK35-IN,,10,לוחית כרסום ,0
+DAPRA,DSSEM-1000-MOD-D45-3C,,1,כרסום ,0
+DAPRA,DSSEM-1250-MOD-D45-4C,,1,כרסום ,0
+DAPRA,DTB-12-D-DMK30,,10,לוחית כרסום ,0
+DAPRA,DTB-12-D-DMK35-IN,,10,לוחית כרסום ,0
+DAPRA,DTB-12-T-DMP25,,10,לוחית כרסום ,0
+DAPRA,RF-1-D-DMP25,,20,לוחית כרסום ,0
+DAPRA,RF-10-DMK35-IN,,10,לוחית כרסום ,0
+DAPRA,SSEM-1000-MOD-D45-3C,,1,כרסום ,0
+DAPRA,SSEM-1250-MOD-D45-4C,,1,כרסום ,0
+DAPRA,SSEM-25-25-R55-2,,2,כרסום ,0
+DAPRA,XPET100316-ALU-DMK25,,20,לוחית כרסום ,0
+DAPRA,XPET120408-ALU-DMK25,,30,לוחית כרסום ,0
+DAPRA,XPET120408-DMK35-IN,,20,לוחית כרסום ,0
+DAPRA,XPET120408-DMK35-IN,,10,לוחית כרסום ,0
+DAPRA,XPET120408-DMP35-HM,,30,לוחית כרסום ,0
+DAPRA,XPET120416-DMK35-IN,,20,לוחית כרסום ,0
+DAPRA,XPET120416-DMP35-HM,,20,לוחית כרסום ,0
+DAPRA,XPET120416-DMP35-HM,,10,לוחית כרסום ,0
+DAPRA,XPET120431-DMP35-HM,,20,לוחית כרסום ,0
+DAPRA,XPET160404-ALU-DMK25,,60,לוחית כרסום ,0
+DAPRA,XPET160408-ALU-DMK25,,50,לוחית כרסום ,0
+DAPRA,XPET160408-DMK35-IN,,30,לוחית כרסום ,0
+DAPRA,XPET160412-ALU-DMK25,,30,לוחית כרסום ,0
+DAPRA,XPET160416-ALU-DMK25,,50,לוחית כרסום ,0
+DAPRA,XPET160416-ALU-DMK25-GLH,,10,לוחית כרסום ,0
+DAPRA,XPET160416-DMK35-IN,,10,לוחית כרסום ,0
+DAPRA,XPET160424-DMP35-GLH,,10,לוחית כרסום ,0
+DAPRA,XPET160431-ALU-DMK25,,30,לוחית כרסום ,0
+DAPRA,XPET160431-DMP35-GLH,,10,לוחית כרסום ,0
+MBC,BMR 40X6 016 LOGU 0303,,1,ראש מקדח,0
+MBC,BMR D12 W12 L150 Z04 LPGT 0102,,1,מקדח,0
+MBC,BMR D12 W12 L150 Z03 LPGT 0102,,1,מקדח,0
+MBC,BMR D16 W16 L160 Z04 LPGT 0102,,2,מקדח,0
+MBC,BMR D17 W16 L150 Z02 XDHW 0602,,2,מקדח,0
+MBC,BMR D17 W16 L150 Z02 XDHW 0602,,1,מקדח,0
+MBC,BMR D17 W16 L160 Z02 LOGU 0303,,3,מקדח,0
+MBC,BMR D21 W20 L160 Z03 LOGU 0303,,2,מקדח,0
+MBC,BMR D26 W25 L160 Z04 LOGU 0303,,4,מקדח,0
+MBC,EM90 D21 W20 L150 Z03 XNEX 0403,,2,מקדח,0
+MBC,VT BMR 32X5 016 LOGU 0303,,2,ראש מקדח,0
+MBC,VT EM90 25X4 M12 XNEX 0403,,1,ראש מקדח,0
+RINECK,NMFXD16-0060,"#2.16.901      (90)     (D16,L23,M08,Z2)",3,"ראש כרס'מתב',90 מע',לוח'XD02",223.15
+RINECK,NMFXD16-0050,"#2.16.914     (95)      (D16,L23,M08,Z2)",,"ראש כרס'מתב',95 מע',לוח'XD02",242.42
+RINECK,NMTEMRD-0505,"#2.20.956           (D20,l40,d20,L90,Z2)",1,"כר'אצ' WELDON עם קרור פנימי,לוח'RD1003",165.75
+RINECK,NMFXD25-0100,"#2.25.911       (95)    (D25,L35,M12,Z2)",2,"ראש כרס'מתב',95 מע',לוח'XD03",246.76
+RINECK,NMFXD25-0110,"#2.25.917   (90)        (D25,L35,M12,Z2)",2,"ראש כרס'מתב',90 מע',לוח'XD03",249.25
+RINECK,NMFXD20-0060,"#3.20.919     (90)      (D20,L30,M10,Z3)",5,"ראש כרס'מתב',90 מע',לוח'XD02",250.19
+RINECK,NMFXD25-0050,"#3.25.912    (95)       (D25,L35,M12,Z3)",2,"ראש כרס'מתב',95 מע',לוח'XD02",255.26
+RINECK,NMFXD25-0060,"#3.25.918   (90)        (D25,L35,M12,Z3)",4,"ראש כרס'מתב',90 מע',לוח'XD02",257.92
+RINECK,NMDDM10-0061,"#3.25.985         (D25,Z3,L=32,M12,COOL)",3,"ראש כר',HSC,מתברג,לוח'עג'RD1003M0T",239.25
+RINECK,NMDDM12-0071,"#3.32.816         (D32,Z3,L=42,M16,COOL)",1,"ראש כר',HSC,מתברג,לוח'עג'RD12T3M0T",269.66
+RINECK,NMDDM12-0110,"#3.35.979         (D35,Z3,L=42,M16,COOL)",2,"ראש כר',HSC,מתברג,לוח'עג'RD12T3M0T",264.33
+RINECK,NMFXD42-0050,"#4.42.909               (D42,L43,M16,Z4)",1,"ראש כרס'מתב',95 מע',לוח'XD03",282.63
+RINECK,NMFXD42-0050,"#4.42.915               (D42,L43,M16,Z4)",1,"ראש כרס'מתב',90 מע',לוח'XD03",282.63
+RINECK,NMTFMRD-0520,"#5.42.996           (D30,A42,F42,d16,Z5)",2,"כרס'שטח,לוחית עגולה,RD:12T3M0T",390.5
+RINECK,BT40,#962-0875BT,1,,0
+RINECK,NTRBT40-0400,"#962-1225BT              (SK40,M12,L=25)",3,אדפטור M12 לראש כרסום מתברג,219.95
+RINECK,NTRBT40-0420,"#962-1250BT              (SK40,M12,L=50)",2,אדפטור M12 לראש כרסום מתברג,278.44
+RINECK,NTRBT40-0530,"#962-16100BT            (BT40,M16,L=100)",1,אדפטור M16 לראש כרסום מתברג,381.65
+RINECK,NTRBT40-0540,"#962-16125BT            (BT40,M16,L=125)",1,אדפטור M16 לראש כרסום מתברג,486.93
+RINECK,NTRBT40-0550,"#962-16150BT            (BT40,M16,L=150)",1,אדפטור M16 לראש כרסום מתברג,442.54
+RINECK,NTRBT40-0500,"#962-1625BT              (BT40,M16,L=25)",6,אדפטור M16 לראש כרסום מתברג,219.95
+RINECK,NTRBT40-0511,"#962-1650BTZY        (BT40,M16,L=50 CYL)",1,אדפטור M16 לראש כרסום מתברג,239.06
+RINECK,NTRBT40-0520,"#962-1675BT              (BT40,M16,L=75)",1,אדפטור M16 לראש כרסום מתברג,315.44
+RINECK,NTRBT40-0521,"#962-1675BTZY        (BT40,M16,L=75 CYL)",1,אדפטור M16 לראש כרסום מתברג,262.86
+RINECK,NBT4016-0300,"#972-BT401625     (d16,l1=25, COOLANT)",3,"אדפטר זכר BT40 d16 , קרור פנימי",253.79
+RINECK,NBT4016-0310,"#972-BT401650     (d16,l1=50, COOLANT)",2,"אדפטר זכר BT40 d16 , קרור פנימי",225.75
+RINECK,NBT4016-0400,"#972-BT402225       (d22,l1=25, COOLANT)",1,"אדפטר זכר BT40 d22 , קרור פנימי",253.79
+RINECK,NBT4016-0410,"#972-BT402250       (d22,l1=50, COOLANT)",1,"אדפטר זכר BT40 d22 , קרור פנימי",260.44
+RINECK,NTRKS16-0100,"#975-160820         (D=16,M=8,L1=20,A=68)",5,קנה WELDON לכרסום ראש מתפרק,151.7
+RINECK,NTRKS16-0200,"#975-160840         (D=16,M=8,L1=40,A=88)",3,קנה WELDON לכרסום ראש מתפרק,180.96
+RINECK,NTRKS20-0040,"#975-201025        (D=20,M=10,L1=25,L=75)",5,קנה WELDON לכרסום ראש מתפרק,158.41
+RINECK,NTRKS20-0060,"#975-201045        (D=20,M=10,L1=45,L=95)",1,קנה WELDON לכרסום ראש מתפרק,187.53
+RINECK,NTRKS25-0050,"#975-251230        (D=25,M=12,L1=30,L=86)",4,קנה WELDON לכרסום ראש מתפרק,180.96
+RINECK,NTRKS32-0050,"#975-321630        (D=32,M=16,L1=30,L=90)",2,קנה WELDON לכרסום ראש מתפרק,198.72
+RINECK,NTRKS32-0060,"#975-321650       (D=32,M=16,L1=50,L=100)",2,קנה WELDON לכרסום ראש מתפרק,197.98
+RINECK,NTRDD40-0040,"#976-1040                (M10,D=18,L=40)",2,מאריך M12 לראש כרסום מתברג,176.54
+RINECK,NTRDD40-0050,"#976-1240                (M12,D=21,L=40)",2,מאריך M12 לראש כרסום מתברג,185.95
+RINECK,NTRDD40-0060,"#976-1260                (M12,D=21,L=60)",2,מאריך M12 לראש כרסום מתברג,200.79
+RINECK,NTRDD40-0070,"#976-1640                (M16,D=29,L=40)",1,מאריך M16 לראש כרסום מתברג,205.49
+RINECK,NTRDD40-0080,"#976-1660                (M16,D=29,L=60)",2,מאריך M16 לראש כרסום מתברג,221.24
+RINECK,NTRDD40-0100,"#977-161240        (M16,D=M16,L=40,d=M12)",2,מאריך/מפחית M12-M16 לראש כרסום מתברג,205.49
+RINECK,NTRKS12-0050,"#978-120620        (D=12,M=06,L1=20,L=65)",4,קנה לכרסום ראש מתפרק,162.39
+RINECK,NTRKS25-0061,"#978-251230        (D=25,M=12,L1=30,L=86)",6,קנה לכרסום ראש מתפרק,185.67
+RINECK,NTRKS32-0090,"#978-3216100     (D=32,M=16,L1=100,L=160)",2,קנה לכרסום ראש מתפרק,235.5
+RINECK,,#6.42.999,1,,0
+RINECK,,#6.66.927,1,,0
+RINECK,,#920-A631650ZY,1,,0
+RINECK,,#920-A631675,1,,0
+RINECK,,#972-BT4027100,1,,0
+RINECK,,#972-BT402275,1,,0
+RINECK,,#972-BT402750,2,,0
+RINECK,,#972-BT402755,1,,0
+RINECK,,XDHW 0206-20 P40 ,10,,0
+RINECK,,XDHW 0310-20 P25,10,,0
+RINECK,,XDHW 0310-20 P40,10,,0
+RINECK,,#962-10100BT,1,,0
+RINECK,,XDHT 060210,30,,0
+RINECK,,XDHT 10T310,40,,0
+RINECK,,XDHT 03-10-10,30,,0
+RINECK,,APHT 1003 PDFR-AL,10,,0
+RINECK,,XDHT 0206-10,30,,0
+RINECK,,#3.35.916,1,,0
+RINECK,13,XDHW 0310-10 K10,10,,0
+SAU,NMTSM12-0100,,2,"כר'מצ' מיוחד(90),לוח' מרובעת,SP1204",387.86
+SAU,NMTSM12-0300,,1,"כר'מצ' מיוחד(90),לוח' מרובעת,SP1204",825.6
+SAU,NMTSM12-0200,,4,"כר'מצ' מיוחד(90),לוח' מרובעת,SP1204",576
+SCAMI,NRS0635-0011,#2410-ALA-06.35H7   Z=4     (FOR STEELS),1,"מקדד מתנפח,ארוךMGK20, ללא קרור",88.4
+SCAMI,NRS0700-0010,#2410-ALA-07.00H7   Z=4     (FOR STEELS),2,"מקדד מתנפח,ארוךMGK20, ללא קרור",87.26
+SCAMI,NRS0900-0010,#2410-ALA-09.00H7   Z=4     (FOR STEELS),1,"מקדד מתנפח,ארוךMGK20, ללא קרור",43.35
+SCAMI,NRS1100-0010,#2410-ALA-11.00H7   Z=6     (FOR STEELS),1,"מקדד מתנפח,ארוךMGK20, ללא קרור",44.67
+SCAMI,NRS1800-0010,#2410-ALA-18.00H7   Z=6     (FOR STEELS),1,"מקדד מתנפח,מתקשMGK20, ללא קרור",49.96
+SCAMI,NRS1900-0010,#2410-ALA-19.00H7   Z=6     (FOR STEELS),1,"מקדד מתנפח,מתקשMGK20, ללא קרור",87.68
+SCAMI,NRS1000-0020,#2410-ALG-10.00H7   Z=6  (FOR CAST IRON),1,"מקדד מתנפח,ארוךMGK20, ללא קרור",354.46
+SCAMI,NRS1200-0020,#2410-ALG-12.00H7   Z=6  (FOR CAST IRON),2,"מקדד מתנפח,ארוךMGK20, ללא קרור",346.19
+SCAMI,NRS0800-0030,#2410-KLG-08.00H7   Z=4  (FOR CAST IRON),4,מקדד ארוך מתנפח מצופה לברזל יציקה,324.34
+SCAMI,NRS1600-0030,#2410-KLG-16.00H7   Z=4  (FOR CAST IRON),4,מקדד ארוך מתנפח מצופה לברזל יציקה,386.94
+SCAMI,NRS0700-0012,#2420-ALG-07.00H7   Z=4  (FOR CAST IRON),3,"מקדד מתנפח,מתקשMGK20, ללא קרור",40.18
+SCAMI,NRCM035-0010,#2531-MC-035          (RANGE 25.6-32.59),1,"קנה קצר מתנפח, עם טבעת",298.54
+SCAMI,NRS1429-0010,#3610-ALA-14.287H7  Z=6     (FOR STEELS),1,"מקדד מתנפח,ארוךMGK20, עם קרור",136.79
+SCAMI,NRS1900-0011,#3610-ALA-19.00H7   Z=6     (FOR STEELS),1,"מקדד מתנפח,ארוךMGK20, עם קרור",73.1
+SCAMI,NRS1429-0013,#3610-ALG-14.29H7   Z=6    (FOR C.IRON),2,"מקדד מתנפח,ארוךMGK20, עם קרור",512.28
+SCAMI,NRS1600-0013,#3610-ALG-16.00H7   Z=6    (FOR C.IRON),1,"מקדד מתנפח,ארוךMGK20, עם קרור",534.4
+SCAMI,NRS1587-0012,#3620-ALA-15.875H7  Z=6     (FOR STEELS),1,"מקדד מתנפח,קצרMGK20, עם קרור",157.28
+SCAMI,,#2430-ALG-15H7,2,,0
+SCAMI,,#2450-ALG-6H7,1,,0
+SCAMI,,#3610-KLA-8H7,4,,0
+SCAMI,,#2501-MC-030 ***** משומש,1,,0
+SCAMI,,#4555-MC-010 ******* משומש,1,,0
+SMOXH,,"SMVT D31, C32 M16, L160-H",1,,0
+SMOXH,,"HST (90) ZP10,D16 W16, L150 Z02-H",4,,0
+SMOXH,,"SMVT D24, C25 M12, L200-H",1,,0
+SMOXH,,"SMVT D18, C20 M10, L170-H",1,,0
+SMOXH,,"HT90 AP10, D20 L87, A20 Z06",1,,0
+SMOXH,,"HT90 AP10, D25 L105, A25 Z08-H",1,,0
+SMOXH,,"HST (90) ZP10,D25 W25, L150 Z04-H",4,,0
+SMOXH,,"SMVT D18, C20 M10, L120-H",5,,0
+SMOXH,,"HST (90) ZP10, D20 W20, L150 Z03-H",4,,0
+SMOXH,,"HST EN10, D20 W20 L150 Z03-H",1,,0
+SMOXH,,"ST RD10, D20 C20, L200 Z02",4,,0
+SMOXH,,"ST90 XO06 D20 W20, L120 Z04-H",2,,0
+SMOXH,,"ST90 XO10 D20 W20, L120 Z03-H",2,,0
+SMOXH,,"ST90 XO16 D16 W16, L120 Z03-H",3,,0
+TEKNIK,,"50-40 SDMT 12, 50-Z4-022-R",1,,0
+TEKNIK,A.E-0094,ADMT 1003 M.5 D21,10,,0
+TEKNIK,A.E-0110,ADMT 1003 M2.5 D12,10,,0
+TEKNIK,A.E-0112,ADMT 1003 M2.5 D20,10,,0
+TEKNIK,A.E-0045,APMT 1604 IK D38,8,,0
+TEKNIK,A.E-0046,APMT 1604 IK M4 D26,8,,0
+TEKNIK,A.E-0048,APMT 1604 IK M4 D33 ,5,,0
+TEKNIK,A.E-0067,APMT 1604 M4,7,,0
+TEKNIK,A.E-0040,APMT 1604D D35,10,,0
+TEKNIK,,HF06 20-06-120 APKT 10,2,,0
+TEKNIK,,HF06 20-8-120 APKT 10,1,,0
+TEKNIK,,HF07 25-08-120,3,,0
+TEKNIK,,R144-1 16-2-150,3,,0
+TEKNIK,,R200 20-2-150,1,,0
+TEKNIK,,R210 20-2-200,3,,0
+TEKNIK,,R236 25-2-150,3,,0
+TEKNIK,,R244 25-2-200 RDMT 12,2,,0
+TEKNIK,,S270 32-3-150,1,,0
+TEKNIK,,S56 25-2-120,2,,0
+TEKNIK,A.E-0002,SPMT 1204 M5 D40,8,,0
+TEKNIK,A.E-0005,SPMT 1204 M5 D42,18,,0
+TEKNIK,A.E-0006,SPMT 1204 M5 D52,1,,0
+TEKNIK,A.E-0028,SPXX 1004 M3.5,1,,0
+TEKNIK,A.E-0025,SPXX 100415 M3.5 D42,2,,0
+TEKNIK,A.E-0026,SPXX 100415D D52,1,,0
+TEKNIK,A.E-0030,SPXX 100415D M3.5 D26,1,,0
+TEKNIK,A.E-0029,SPXX 100415D M3.5 D30,1,,0
+TEKNIK,A.E-0023,SPXX 100415D M3.5 D33,1,,0
+TEKNIK,A.E-0024,SPXX100415 M3.5 D38,3,,0
+TEKNIK,A.E-0205,SX42CR 3232P08,14,,0
+TEKNIK,,T181 40-4 APKT 16,2,,0
+TEKNIK,,"UA10 D25,d20,L44",2,,0
+TEKNIK,,"UA12 D25,d32,L46",1,,0
+TEKNIK,,"UA14, D40-d32-L55",1,,0
+TEKNIK,,VT098-1 20-2 M10 RDMT 10,3,,0
+TEKNIK,,VT120-1 25-2 M10 RDMT 12,2,,0
+TEKNIK,,VT128 40-4-M16,1,,0
+TEKNIK,,"VT501,D15",2,,0
+TEKNIK,,"VT503,D16",3,,0
+TEKNIK,,"VT505,D16-L150-M08",3,,0
+TEKNIK,,"VT507,D19",1,,0
+TEKNIK,,"VT509,D20-L100-M10",5,,0
+TEKNIK,,"VT513,D24",2,,0
+TEKNIK,,"VT515,D25",2,,0
+TEKNIK,,"VT519,D25",1,,0
+TEKNIK,A.E-0015 D52,HDXW 0310 M3.5,7,,0
+TEKNIK,A.E-0130,YPHW 100308 ZER-15 D49,1,,0
+TEKNIK,A.E-0130,ZPMT 100308 ZER-PL D40,12,,0
+TEKNIK,A.E-0056,ZPMT 13T3 M3 D26,10,,0
+TEKNIK,,D42 Z4 SDNW 12 STOK STR24,10,,0
+TEKNIK,,D52 Z5 SDNW 12 STOK STR12,10,,0
+TEKNIK,,D50 Z5 SNEU 1206 IC TOK T164-1,4,,0
+TEKNIK,,D63 Z6 SNEU 1206 IC TOK T165-1,2,,0
+TEKNIK,,RDMT 12 40-4,4,,0
+TEKNIK,,RDMT 12 50-5,3,,0
+WINSTAR,APET160404PDFR AL-CX10,,40,,0
+WINSTAR,APKT100304PDER AL-CX10,,10,,0
+WINSTAR,APKT100308PDER MG-CX43TX,,30,,0
+WINSTAR,APKT160408PDER RG-CX43TX,,10,,0
+WINSTAR,CNMG120404 FP-CX2545,,30,,0
+WINSTAR,CNMG120404 SM-CX2545,,60,,0
+WINSTAR,CNMG120408 FP-CX2545,,30,,0
+WINSTAR,CNMG120408 MP-CC7025,,80,,0
+WINSTAR,CNMG120408 MP-CX2575,,70,,0
+WINSTAR,CNMG120408 SM-CX2545,,60,,0
+WINSTAR,CNMG120408 SM-CX2545,,60,,0
+WINSTAR,CNMG120412 SM-CX3545,,30,,0
+WINSTAR,DNMG150408 MP-CC7025,,30,,0
+WINSTAR,DNMG150408 RG-CX3560,,30,,0
+WINSTAR,EHBHS 302000SX....50L,,2,,0
+WINSTAR,EHBHS 302000SX....50L,,2,,0
+WINSTAR,EHBHS 303000SX...50L,,5,,0
+WINSTAR,EHBHS 304000SX...50L,,5,,0
+WINSTAR,EHBHS 406000SX...50L,,3,,0
+WINSTAR,EHBHS 406000SX...50L,,2,,0
+WINSTAR,EHBHS 408000SX...60L,,3,,0
+WINSTAR,EHBHS 410000SX 10C*75L,,2,,0
+WINSTAR,EHBLH 206010AX.....100L,,2,,0
+WINSTAR,EHBLH 208015AX.....150L,,1,,0
+WINSTAR,EHBLH210015AX 5R*20C*150L,,1,,0
+WINSTAR,EHBRC 203035AX....75L,,1,,0
+WINSTAR,EHBRT 2020423AX 100L*3,,1,,0
+WINSTAR,EHBUH 202000SX....50L,,15,,0
+WINSTAR,EHBUH 203000SX...50L,,5,,0
+WINSTAR,EHBUH 204000SX...50L,,5,,0
+WINSTAR,EHBUH 205000SX....50L,,5,,0
+WINSTAR,EHBUH 206000SX...50L,,2,,0
+WINSTAR,EHBUH 206000SX...50L,,3,,0
+WINSTAR,EHBUH 208000SX...60L,,3,,0
+WINSTAR,EHCLH 40600510AX..0.5R,,1,,0
+WINSTAR,EHCLH 40800510AX..0.5R,,1,,0
+WINSTAR,EHCLH 41000510AX..0.5R,,2,,0
+WINSTAR,EHCLH41000515AX 10*20C*150L*0.5R,,1,,0
+WINSTAR,EHCRC 40400235AX 75L*0.2R,,1,,0
+WINSTAR,EHCSH 405005AX..0.5R,,3,,0
+WINSTAR,EHCSH 406010AX.... 1R,,3,,0
+WINSTAR,EHCSH 408010AX 60L*1R,,2,,0
+WINSTAR,EHCSH 442002AX..0.2R,,5,,0
+WINSTAR,EHCSH 443002AX..0.2R,,5,,0
+WINSTAR,EHCSH 444005AX..0.5R,,3,,0
+WINSTAR,EHCUH 406005SX..0.5R,,2,,0
+WINSTAR,EHCUH 408005SX 60L*0.5R,,2,,0
+WINSTAR,EHCUH 410010SX 75L*1R,,2,,0
+WINSTAR,EHCUH 412010SX 75L*1R,,1,,0
+WINSTAR,EHCUH 412010SX 75L*1R,,1,,0
+WINSTAR,EHSCC410015SX 10*55C*150L,,1,,0
+WINSTAR,EHSLH410015AX 10*25C*150L,,1,,0
+WINSTAR,EHSS608000SX 8*20C*60L,,4,,0
+WINSTAR,EHSS612000SX 12*30C*75L,,1,,0
+WINSTAR,EHSSS606000SX 6*15C*50L,,3,,0
+WINSTAR,EHSSS610000SX 10*25C*75L,,3,,0
+WINSTAR,EHWSA  610000SX  1R*5.5R,,2,,0
+WINSTAR,EHWSA 446000AX 0.6R*5R,,2,,0
+WINSTAR,EHWSA 60800SX 0.8R*4.5R,,2,,0
+WINSTAR,EHWSA 612000SX 1.2R*6.5R,,2,,0
+WINSTAR,ENBSA208000 4R*16C*60L,,2,,0
+WINSTAR,ENCSS308005 8*20C*60L*0.5R,,2,,0
+WINSTAR,ENSCS308000 8*45C*100L,,2,,0
+WINSTAR,ENSCS310000 10*55C*100L,,1,,0
+WINSTAR,ENSSB308000 8*20C*60L,,2,,0
+WINSTAR,ENSSC406000L 6*15C*50L,,6,,0
+WINSTAR,ENSSC408000L 8*20C*60L,,6,,0
+WINSTAR,ENSSC410000L 10*25C*75L,,6,,0
+WINSTAR,ENSSC412000L 12*30C*75L,,4,,0
+WINSTAR,ENSSH308000 8*20C*60L,,2,,0
+WINSTAR,ENSSP306000 6*15C*50L,,10,,0
+WINSTAR,ENSSP310000 10*30C*75L ,,10,,0
+WINSTAR,ENSSP312000 12*30C*75L ,,10,,0
+WINSTAR,ENSSR410000 10*25C*75L,,2,,0
+WINSTAR,ENSSS310000 10*30C*75L,,2,,0
+WINSTAR,EPBLC406010UX 3R*12C*100L,,2,,0
+WINSTAR,EPBLC410015UX 5R*20C*150L,,1,,0
+WINSTAR,EPCLC41000515UX 10*20C*150L*0.5R,,1,,0
+WINSTAR,EPCRT20200550AUX 2*3C*50EL*100L*0.5*1.5,,1,,0
+WINSTAR,EPFSA 610090UX 10*75L 90 ,,1,,0
+WINSTAR,EPISA405920UX 5.9*-2R*75L,,1,,0
+WINSTAR,EPSCVD 508102AX...75L*1R,,2,,0
+WINSTAR,EPSCVD 710051AX...75L*0.5C,,2,,0
+WINSTAR,EPSCVD 710052AX..100L*0.5R,,2,,0
+WINSTAR,EPSLC 408010UX 8*20C*100L,,2,,0
+WINSTAR,EPSLC410015UX 10*25C*150L,,1,,0
+WINSTAR,EPSRC405030UX 5*5C*30EL*75L,,1,,0
+WINSTAR,EPSRR408000UX 8*20C*60L,,2,,0
+WINSTAR,EPSSVC 406102AX..50L*1R,,2,,0
+WINSTAR,EPSSVC 408102AX..60L-1R,,2,,0
+WINSTAR,EPSSVC 410011AX..75L*1R,,2,,0
+WINSTAR,EPSSVC 410102AX...75L*1R,,2,,0
+WINSTAR,EPSSVC 412102AX...75L*1R,,2,,0
+WINSTAR,EPSSVC 508000AX..20C*60L,,2,,0
+WINSTAR,EPSSVC 510000AX...75L,,2,,0
+WINSTAR,EPSSVE 410102AX...75L*1R,,2,,0
+WINSTAR,ESSSVA 4080011SX 60L*0.15C,,2,,0
+WINSTAR,ESSSVB 4080011SX.60L*0.15C,,2,,0
+WINSTAR,ESSSVC 4080011SX.60L*0.15C,,2,,0
+WINSTAR,ESSSVD 4080052SX 60L*0.5R,,2,,0
+WINSTAR,ISWMEB12100062 12*M6*100L*60EL,,1,,0
+WINSTAR,LOMX030310 MG-CX33TX,,80,,0
+WINSTAR,LOMX030310 MG-CX43TX,,50,,0
+WINSTAR,LPGX0102 CX33TX,,60,,0
+WINSTAR,LPGX0102 CX43TX,,40,,0
+WINSTAR,LPGX0102 MG-CX33TX,,10,,0
+WINSTAR,LPGX0102 MG-CX43TX,,10,,0
+WINSTAR,ONMX0505 RG-CX33TX,,40,,0
+WINSTAR,RDMT1003MOE CX43TX,,30,,0
+WINSTAR,SDMT1205ZDTN MG-CX43TX,,10,,0
+WINSTAR,SDNW1205ZDTN RG-CX23TX,,10,,0
+WINSTAR,SDNW1205ZDTN RG-CX33TX,,60,,0
+WINSTAR,SEET 13T3AGFN  AL-CX10,,10,,0
+WINSTAR,SEET13T3AGFN FG-CX22HX,,30,,0
+WINSTAR,SEET13T3AGFN RG-CX22TX,,20,,0
+WINSTAR,SEET13T3AGFN RG-CX43TX,,50,,0
+WINSTAR,SNMX1205 MG-CX43TX,,30,,0
+WINSTAR,SNMX1205 RG-CX33TX,,60,,0
+WINSTAR,SNMX1205 RG-CX33TX,,10,,0
+WINSTAR,TNMG160408 SM-CX2545,,30,,0
+WINSTAR,TNMG160408L ME-CX2560,,30,,0
+WINSTAR,TNMG160408R ME-CX2560,,30,,0
+WINSTAR,WNMG080404 MP-CX2545,,50,,0
+WINSTAR,WNMG080404 SP-CC7015,,100,,0
+WINSTAR,WNMG080404 SP-CX2545,,100,,0
+WINSTAR,WNMG080408 FP-CX2545,,50,,0
+WINSTAR,WNMG080408 MP-CC7025,,130,,0
+WINSTAR,WNMG080408 MP-CX2545,,70,,0
+WINSTAR,WNMG080408 MP-CX2575,,100,,0
+WINSTAR,WNMG080408 MP-CX3545,,50,,0
+WINSTAR,WNMG080408 MP-CX3575,,70,,0
+WINSTAR,WNMG080408 RP-CX2560,,50,,0
+WINSTAR,WNMG080412 HG-CX3560,,10,,0
+WINSTAR,WNMG080412 MP-CX2545,,70,,0
+WINSTAR,WNMG080412 MP-CX3545,,30,,0
+WINSTAR,XNMX040308 MG-CX33TX,,30,,0
+WINSTAR,XNMX080608 RG-CX33TX,,30,,0
+WINSTAR,XNMX080608 RG-CX43TX,,30,,0
+WINSTAR,XNX040308 MG-CX23TX,,50,,0
+WINSTAR,XNX040308 MG-CX33TX,,50,,0
+WINSTAR,XNX040308 MG-CX43TX,,50,,0
+WINSTAR,XOMT060208 MG-CX23TX,,80,,0
+WINSTAR,XOMT060208 MG-CX33TX,,70,,0
+WINSTAR,XOMT060208 MG-CX43TX,,50,,0
+WINSTAR,XOMT10T308 SG-CX43TX,,2,,0
+WINSTAR,XOMT10T308 SG-CX43TX,,10,,0

@@ -1,0 +1,379 @@
+company,code,subcode,amount,description,price
+DIJET,NMDSD12-0080,SDHW 1204PDTR       (PVD)          JC8015,250,"לוח'כר'מתקש מצופה,DIJET,כר'90",13.51
+DIJET,NMIAP16-2070,APMT 160416PDER                   JC8050,240,"לוח'כרסום,מתקש מצופה,לכרס'(90)",14.5
+DIJET,NMDSD12-0050,SDMT 1204PDER      (PVD)          JC5040,210,"לוח'כר'מתקש מצופה,DIJET,כר'90",13.94
+DIJET,NMIAP10-0125,APKT 1003PDER-05                  JC5118,200,"לוח'כרס',מתק""ש מצופה,ל-90ISCAR",12.68
+DIJET,,SNMG120408-SZ       JC5118,200,,
+DIJET,NMIAP10-0135,APKT 1003PDER-05                  JC8050,180,"לוח'כרס',מתק""ש מצופה,ל-90ISCAR",11.55
+DIJET,NMDRD12-0410,RDMW 1204M0T    (PVD)             JC8015,180,לוחית כרסום  מצופה עגולה,13.98
+DIJET,NTIWN08-5380,WNMG 080408-SZ     (PVD)          JC5118,180,"לוחית לחריטה, מתק""ש מצופה",13.79
+DIJET,,SNMG120412-SZ       JC5118,180,,
+DIJET,NMDSD12-0070,SDMT 1204PDER       (PVD)          JC8050,170,"לוח'כר'מתקש מצופה,DIJET,כר'90",14.35
+DIJET,NTIWN08-5375,WNMG 080404-SZ     (PVD)          JC5118,160,"לוחית לחריטה, מתק""ש מצופה",13.47
+DIJET,NMDSP12-0015,IM-SP43GS          (PVD)          JC5118,140,"לוח'כר'מתקש מצופה,DIJET,כר'90",13.72
+DIJET,,APMT160408PDER       JC8050,140,,
+DIJET,,ADMT100316PDER       JC8050,130,,
+DIJET,,ZPMT 100308ZER-SL                    JC7518,130,,
+DIJET,NMDSD12-0060,SDMT 1204PDER      (PVD)          JC8015,120,"לוח'כר'מתקש מצופה,DIJET,כר'90",13.05
+DIJET,NMHEP08-0062,XDMW 080620ZTR   (PVD)            JC7560,110,לוחית כרסום DIJET מצופה  משובעת (7 צלעות),14.41
+DIJET,NMIEP10-0220,YPHW 100308ZER-1.5  (CERMET)        CX75,110,לוחית ימנית high feed milling לפלדה CERMET,17.59
+DIJET,,EOMW 060210ZER              JC8118,110,,
+DIJET,NTICN12-5410,CNMG 120408-SZ    (PVD)           JC5118,100,"לוחית לחריטה, מתק""ש מצופה",12.1
+DIJET,NMIZP10-0250,ZPMT 100304ZER                    JC8050,100,לוחית ימנית לכרסום,16.94
+DIJET,,ADMT100316PDER       JC5118,100,,
+DIJET,,ADMT100316PDER       JC8015,100,,
+DIJET,,IM-SP43GS-PH                      JC8050,100,,
+DIJET,,RDMW 1004MOT                  JC8015,100,,
+DIJET,,SDEW 090312ZER.                      JC7518,100,,
+DIJET,NMDWD08-0245,WDMT 080520ZER    (PVD)           JC8050,90,לוחית כרסום  ל-HIGH FEED MILLING,20.4
+DIJET,NMIZP10-0200,ZPMT 100304ZER                    JC5118,90,לוחית ימנית לכרסום,15.85
+DIJET,NMIZP16-0105,ZPMT 160408R                      JC5015,90,לוחית ימנית לכרסום/שיקוע,19.35
+DIJET,,ADMT100308PDER       JC5118,90,,
+DIJET,,ZPMT 100308ZER-PL                    DH102,90,,
+DIJET,NTICN12-5105,CNMG 120408R-SG                   JC8015,80,"לוחית לחריטה, מתק""ש מצופה",13
+DIJET,NTIWN08-5120,WNMG 080408R-SG                   JC8015,80,"לוחית לחריטה, מתק""ש מצופה",14.36
+DIJET,,APMT160408PDER       JC5118,80,,
+DIJET,,TNMG160408-SZ       JC5118,80,,
+DIJET,NTICN12-5108,CNMG 120412R-SG                   JC8015,70,"לוחית לחריטה, מתק""ש מצופה",13
+DIJET,NMIZC10-0050,ZCMT 100308R                      JC5040,70,לוחית ימנית לכרסום/שיקוע,16.83
+DIJET,,EOMT 060210ZER               JC8118,70,,
+DIJET,,RDHX 12T3M0T                    JC8118,70,,
+DIJET,,RDHX 1604MOT                     JC8118,70,,
+DIJET,,SDEW090312ZER.   JC7550,70,,
+DIJET,,ZPMT 100320ZER                         JC8050,70,,
+DIJET,NMDWO04-0125,WOMW 04T215ZER    (PVD)           JC5118,60,לוחית כרסום ל-HIGH FEED MILLING,18.53
+DIJET,NMIZP13-0105,ZPMT 13T308R                      JC5015,60,לוחית ימנית לכרסום/שיקוע,18.1
+DIJET,NMIZP13-0210,ZPMT 13T308RP  (POLISHED)           FZ15,60,לוחית כרסום מלוטשת ל-SICM/SECM,18.32
+DIJET,,APMT160408PDER       JC8015,60,,
+DIJET,,ZDMT 13T320-RP                      FZ15,60,,
+DIJET,,ZPMT 100308ZER-PL                    CX75,60,,
+DIJET,NMDMSSP-0161,#SM-SE13 MR2    (SHIM FOR SE13T3)........,50,תחתית ללוחית SEMT13T3,28.12
+DIJET,NMIEO06-0070,EOMW 060210ZER   (PVD)            JC7560,50,לוחית ימנית high feed milling,16.04
+DIJET,NMDSP09-0010,IM-SP32GS          (PVD)          JC5015,50,"לוח'כר'מתקש מצופה,DIJET,כר'90",14.02
+DIJET,NMDSP12-0033,"IM-SP43GS-N1  (PVD,SERRATED)      JC5040",50,"לוחית כרסום משוננת,ציפוי PVD",12.81
+DIJET,NMDRD12-0305,RDMT 1204M0T    (PVD)             JC5118,50,לוחית כרסום לחוצה מצופה עגולה,15.04
+DIJET,NMSDS12-0050,SDHW 1204AFTN                     JC5040,50,לוחית כרסום ISO  מצופה,13.97
+DIJET,NMDWD05-0150,WDMT 050316ZER    (PVD)           JC5118,50,לוחית כרסום ל-HIGH FEED MILLING,18.69
+DIJET,NMDWO04-0135,WOMT 04T215ZER    (PVD)           JC7560,50,לוחית כרסום ל-HIGH FEED MILLING,17.63
+DIJET,NMIZC10-0060,ZCMT 100308R                      JC5015,50,לוחית ימנית לכרסום/שיקוע,18.59
+DIJET,NMIZD10-0060,ZDMT 100308L                      JC5015,50,לוחית ימנית לכרסום/שיקוע,18.59
+DIJET,NMIZD13-0050,ZDMT 13T308L                      JC5040,50,לוחית שמאלית לכרסום/שיקוע,16.67
+DIJET,NMIZO06-0160,ZOMT 060204ZER   (PVD)            JC8050,50,לוחית ימנית high feed milling,13.54
+DIJET,,ADMT100308PDER       JC8050,50,,
+DIJET,,EPHW100316ZTR       DH102,50,,
+DIJET,,RDHX 1003M0T                    DH103,50,,
+DIJET,,RDMT 1004M0E                     JC8118,50,,
+DIJET,,SNMG120412R-SG       JC8015,50,,
+DIJET,,SDEW090312ZER.   JC7518,50,,
+DIJET,,TNMG160408R-SG       JC8015,50,,
+DIJET,,WDMW 050316ZTR              JC8118,50,,
+DIJET,,ZPMT 100320ZER-PL                      JC8118,50,,
+DIJET,NMIEO06-0100,EOHW 060210ZTR   (PVD)            JC6102,40,לוחית ימנית high feed milling לפלדה מחוסמת,18.34
+DIJET,NMIEO06-0050,EOMW 060210ZER   (PVD)            JC5118,40,לוחית ימנית high feed milling,12.86
+DIJET,NMDSP09-0020,IM-SP32GS          (PVD)          JC5030,40,"לוח'כר'מתקש מצופה,DIJET,כר'90",14.02
+DIJET,NMDSP09-0030,IM-SP32GS          (PVD)          JC5040,40,"לוח'כר'מתקש מצופה,DIJET,כר'90",14.02
+DIJET,NMDSP12-0025,"IM-SP43GS-N1  (PVD,SERRATED)      JC8015",40,"לוחית כרסום משוננת,ציפוי PVD",13.72
+DIJET,NMDRD10-0206,RDMT 1004M0T    (PVD)             JC5118,40,לוחית כרסום מושחזת מצופה עגולה,12.32
+DIJET,NTITN16-5055,TNMG 160404L-SG                   JC8015,40,"לוחית לחריטה, מתק""ש מצופה",10.28
+DIJET,NTITN16-5205,TNMG 160404-SF                    JC8015,40,"לוחית לחריטה, מתק""ש מצופה",10.28
+DIJET,NMDWD05-0105,WDMW 050316ZTR    (PVD)           JC8050,40,לוחית כרסום ל-HIGH FEED MILLING,17.25
+DIJET,NMDWN09-0200,WNMU 090720ZER-PM (PVD)           JC8118,40,לו'כר' 6 פינות עבודה לHIGH FEED MILLING,23.94
+DIJET,NMDWO04-0130,WOMW 04T215ZER    (PVD)           JC7560,40,לוחית כרסום ל-HIGH FEED MILLING,16.62
+DIJET,,APKT 1604PDR-08                   JC5118,40,,
+DIJET,,CNMG120404R-SG       JC8015,40,,
+DIJET,,EPHW100316ZTR       JC6102,40,,
+DIJET,,RDHX 0702MOT                    DH103,40,,
+DIJET,,SDET090312ZDER.   JC7550,40,,
+DIJET,,ZPMT 100304ZER-SL                      JC7518,40,,
+DIJET,NMIZC10-0070,ZCMT 100308RP  (POLISHED)           FZ15,37,לוחית כרסום מלוטשת ל-SICM/SECM,17.33
+DIJET,NMDRD12-0320,RDGT 1204M0F-AL                     FZ05,30,לוחית כרסום מושחזת עגולה לאלומיניום,18.08
+DIJET,NMPRD10-0325,RDHT 1003MOF   (TITAN. ALLOYS+ALUM.) KT9,30,"לוחית כרסום עגולה, לא מצופה",15.15
+DIJET,NMPRD12-0325,RDHT 12T3MOF   (TITAN. ALLOYS+ALUM.) KT9,30,"לוחית כרסום עגולה, לא מצופה",16.48
+DIJET,NMDBM16-0010,SWB-216-HM  (MAIN BLADE)          JC5118,30,"להב מתק""ש לראש כדורי SWING BALL",49.47
+DIJET,NMDBM16-0050,SWB-216-HS    (MAIN BLADE)        JC5118,30,"להב מתק""ש לראש כדורי SWING BALL",36.47
+DIJET,NMDWD05-0126,WDMW 050316ZTR    (PVD)           JC7560,30,לוחית כרסום ל-HIGH FEED MILLING,16.62
+DIJET,NMDWD10-0150,WDMW 10X620ZTR    (PVD)           JC8015,30,לוחית כרסום  ל-HIGH FEED MILLING,25.03
+DIJET,NMDWD10-0170,WDMW 10X620ZTR    (PVD)           JC8050,30,לוחית כרסום  ל-HIGH FEED MILLING,26.39
+DIJET,NTIWN08-5070,WNMG 080404L-SG                   JC8015,30,"לוחית לחריטה, מתק""ש מצופה",14.36
+DIJET,NMDWO04-0120,WOMW 04T215ZER    (PVD)           JC8050,30,לוחית כרסום ל-HIGH FEED MILLING,18.08
+DIJET,NMIZP16-0150,ZPMT 160408RP  (POLISHED)           FZ15,30,לוחית כרסום מלוטשת ל-SICM/SECM,18.28
+DIJET,,CNMG120412L-SG       JC8015,30,,
+DIJET,,EPHW100312ZER      JC8050,30,,
+DIJET,,EPHW100316ZTR       JC8118,30,,
+DIJET,,RDHX 1003M0T                      JC8118 ,30,,
+DIJET,,RDHX 12T3MOT                    DH103,30,,
+DIJET,,RNMU 1205MOE-MM JC7560P,30,,
+DIJET,,SNMG120408R-SG       JC8015,30,,
+DIJET,,TNMG160404R-SG       JC8015,30,,
+DIJET,,WDMT 080520ZER    (CVD)           JC7560,30,,
+DIJET,,ZDMT 13T316-RP                      FZ15,30,,
+DIJET,,ZPMT 100304ZER-PL                      DH102,30,,
+DIJET,,ZPMT 100304ZER-PL                      JC8118,30,,
+DIJET,,ZPMT 13T316R                        JC5015,30,,
+DIJET,,BNM-120-SS                           DH108,24,,
+DIJET,DSEH6080-010,"DV-SEHH6080-R02 (D8,l20,L70,Z6)  JC8000H",22,"כרסום אצבע מתק""ש לפלדות קשות",153.51
+DIJET,,APMT160416PDER       JC8050,22,,
+DIJET,NMDMSSP-0575,#DSW-307H..................(FOR SWB 220),20,בורג הידוק ללוחית SWB 220,13.33
+DIJET,NTICN12-5155,CNMG 120408L-SG                   JC8015,20,"לוחית לחריטה, מתק""ש מצופה",11.75
+DIJET,NMDCP15-0020,IM-CP32N           (PVD)          JC5030,20,"לוח'כר'מתקש מצופה,DIJET,כר'90",16.65
+DIJET,NMDCP15-0030,IM-CP32N           (PVD)          JC5040,20,"לוח'כר'מתקש מצופה,DIJET,כר'90",16.72
+DIJET,NMDRD07-0150,RDGT 07T2M0F-AL                     FZ05,20,לוחית כרסום מושחזת עגולה לאלומיניום,12.33
+DIJET,NMDRD10-0260,RDGT 1004M0T    (PVD)             JC8050,20,לוחית כרסום מושחזת מצופה עגולה,15.23
+DIJET,NMDRP12-0025,RPMT 1204M0E-MM4    (PVD)        JC7560,20,לוחית כרסום עגולה ל-SUPER ALLOYS,0.04
+DIJET,NMDRP12-0020,RPMT 1204M0E-MM8    (PVD)        JC7560,20,לוחית כרסום עגולה ל-SUPER ALLOYS,0.04
+DIJET,NMDRP12-0030,RPMT 1204MOE-MH4    (PVD)        JC7560,20,לוחית כרסום עגולה ל-SUPER ALLOYS,0.04
+DIJET,NTITN16-5305,TNMG 160408-SF                    JC8015,20,"לוחית לחריטה, מתק""ש מצופה",10.28
+DIJET,NMDWD10-0120,WDMT 10X620ZER    (PVD)           JC5118,20,לוחית כרסום  ל-HIGH FEED MILLING,24.3
+DIJET,NMDWD10-0110,WDMT 10X620ZER    (PVD)           JC8050,20,לוחית כרסום  ל-HIGH FEED MILLING,25.39
+DIJET,NMDWD06-0105,WDMW 06T320ZTR    (PVD)           JC8050,20,לוחית כרסום ל-HIGH FEED MILLING,17.98
+DIJET,NMDWD10-0155,WDMW 10X620ZTR    (PVD)           JC5118,20,לוחית כרסום  ל-HIGH FEED MILLING,26.19
+DIJET,NTIWN08-5170,WNMG 080408L-SG                   JC8015,20,"לוחית לחריטה, מתק""ש מצופה",14.36
+DIJET,NMHEP08-0085,XDMT 080620ZER   (PVD)            JC7560,20,לוחית כרסום DIJET מצופה  משובעת (7 צלעות),14.41
+DIJET,NMHEP08-0065,XDMW 080620ZTR   (PVD)            JC5118,20,לוחית כרסום DIJET מצופה  משובעת (7 צלעות),14.81
+DIJET,NMHEP08-0040,XDMW 080620ZTR   (PVD)            JC8050,20,לוחית כרסום DIJET מצופה  משובעת (7 צלעות),14.81
+DIJET,NMIZD10-0070,ZDMT 100308LP  (POLISHED)           FZ15,20,לוחית כרסום מלוטשת ל-SICM/SECM,15.13
+DIJET,NMIZD13-0090,ZDMT 13T308LP  (POLISHED)           FZ15,20,לוחית כרסום מלוטשת ל-SICM/SECM,18.32
+DIJET,NMIZO06-0110,ZOMT 060202ZER   (PVD)            JC8050,20,לוחית ימנית high feed milling,13.87
+DIJET,NMIZP13-0100,ZPMT 13T308R                      JC5040,20,לוחית ימנית לכרסום/שיקוע,17.88
+DIJET,NMIZP13-0200,ZPMT 13T320R                      JC5040,20,לוחית ימנית לכרסום/שיקוע,13.82
+DIJET,NMIZP13-0230,ZPMT 13T320RP  (POLISHED)           FZ15,20,לוחית כרסום מלוטשת ל-SICM/SECM,18.32
+DIJET,NMIZP16-0060,ZPMT 160408L                      JC5015,20,לוחית שמאלית לכרסום/שיקוע,19.35
+DIJET,NMIZP16-0050,ZPMT 160408L                      JC5040,20,לוחית שמאלית לכרסום/שיקוע,20.52
+DIJET,NMIZP16-0100,ZPMT 160408R                      JC5040,20,לוחית ימנית לכרסום/שיקוע,0
+DIJET,,CNMG120404L-SG       JC8015,20,,
+DIJET,,ENMU100412ZER-PH       JC8050,20,,
+DIJET,,ENMU100412ZER-SL       JC7518,20,,
+DIJET,,RDGT 1004M0E                    JC8015,20,,
+DIJET,,RDHT 0702MO-T57P,20,,
+DIJET,,RDHX 1003M0F                      KT9,20,,
+DIJET,,RDMT 1004M0E-ML                JC8050,20,,
+DIJET,,TNMG160404-SZ       JC5118,20,,
+DIJET,,TNMG160408L-SG       JC8015,20,,
+DIJET,,WDMW 080520ZTR                        JC8118,20,,
+DIJET,,XDHW 031010                       DH103,20,,
+DIJET,,YOHW 060208ZER-12            DH102,20,,
+DIJET,,ZPMT 13T316-R                     JC5040,20,,
+DIJET,,RDHT 12T3MO T57P,20,,
+DIJET,DSEH4020010,"DV-SEHH4020      (D2,l7,L60,Z4)  JC8000H",16,"כרסום אצבע מתק""ש לפלדות קשות",85.01
+DIJET,NDMRB10-0300,HRM-100-R20   (H.F.C)             JC8015,14,"להב מתק""ש שטוח לקידמה מהירה",84.15
+DIJET,DSEH6060-010,"DV-SEHH6060-R02 (D6,l15,L60,Z6)  JC8000H",13,"כרסום אצבע מתק""ש לפלדות קשות",126.89
+DIJET,NDMSB20-0010,BNM-200-S    (PVD)                JC8008,12,להב כדורי מפותל MIROR.BALL,104.37
+DIJET,NMDMSSP-0180,#TSW-3612H..................(FOR SE13T3),11,בורג הידוק ללוחית SEMT 13T3,16.53
+DIJET,NDMSB08-0020,BNM-080-S                         JC8008,10,"להב מתק""ש כדורי MIROR.BALL",61.6
+DIJET,NTICN12-2900,CNMG 120404-UB                    JC110V,10,"לוחית לחריטה, מתק""ש מצופה",5.94
+DIJET,NTICN12-5110,CNMG 120408R-SG                   JC110V,10,"לוחית לחריטה, מתק""ש מצופה",11.33
+DIJET,NTICN12-5310,CNMG 120408-SF                    JC110V,10,"לוחית לחריטה, מתק""ש מצופה",11.4
+DIJET,DSEH4030-010,"DV-SEHH4030-R02 (D3,l10,L60,Z4)  JC8000H",10,"כרסום אצבע מתק""ש לפלדות קשות",95.62
+DIJET,NDMRB08-0180,HRM-080-R10   (H.F.C)             JC8015,10,"להב מתק""ש שטוח לקידמה מהירה",69.89
+DIJET,NDMRB08-0200,HRM-080-R20   (H.F.C)             JC8015,10,"להב מתק""ש שטוח לקידמה מהירה",69.89
+DIJET,NMDSP12-0030,"IM-SP43GS-N1  (PVD,SERRATED)      JC8050",10,"לוחית כרסום משוננת,ציפוי PVD",12.28
+DIJET,NMDRD12-0300,RDGT 1204M0E    (PVD)             JC8015,10,לוחית כרסום מושחזת מצופה עגולה,15.23
+DIJET,NMDRD12-0360,RDGT 1204M0T    (PVD)             JC8050,10,לוחית כרסום מושחזת מצופה עגולה,0
+DIJET,NMDRD10-0065,RDHX 1003M0T                      JC5118,10,לוחית כרסום מצופה עגולה,14.28
+DIJET,NMPRD20-0060,RDHX 2006MOT                      JC5030,10,"לוחית כרסום עגולה, ציפוי PVD",33.2
+DIJET,NMDRD07-0200,RDMT 0702M0E    (PVD)             JC8050,10,לוחית כרסום מושחזת מצופה עגולה,10.5
+DIJET,NMDRD07-0300,RDMW 0702M0T    (PVD)             JC8015,10,לוחית כרסום מצופה עגולה,8.89
+DIJET,NMDWD06-0165,WDMT 06T320ZER    (PVD)           JC5118,10,לוחית כרסום ל-HIGH FEED MILLING,17.61
+DIJET,NMDWD08-0220,WDMT 080520ZER    (CVD)           JC730U,10,לוחית כרסום  ל-HIGH FEED MILLING,22.07
+DIJET,NMDWD08-0247,WDMT 080520ZER    (PVD)           JC5118,10,לוחית כרסום  ל-HIGH FEED MILLING,20.77
+DIJET,NMDWD06-0101,WDMW 06T320ZTR    (PVD)           JC5118,10,לוחית כרסום ל-HIGH FEED MILLING,19.19
+DIJET,NMDWD06-0180,WDMW 06T320ZTR    (PVD)           JC7560,10,לוחית כרסום ל-HIGH FEED MILLING,16.02
+DIJET,NTIWN08-5741,WNMG 080408-PG                    JC110V,10,"לוחית לחריטה, מתק""ש מצופה",13.88
+DIJET,NTIWN08-5745,WNMG 080408-PG       (PVD)        JC8015,10,"לוחית לחריטה, מתק""ש מצופה",13.25
+DIJET,NTIWN08-5130,WNMG 080408R-SG                   JC110V,10,"לוחית לחריטה, מתק""ש מצופה",13.88
+DIJET,NTIWN08-5500,WNMG 080408-UB                    JC110V,10,"לוחית לחריטה, מתק""ש מצופה",15.07
+DIJET,NTIWN08-5910,WNMG 080412-SZ   (PVD)            JC5118,10,"לוחית לחריטה, מתק""ש מצופה",14.41
+DIJET,NMTXD02-0100,XDHW 020610      (PVD)            JC5040,10,"לוחית כרסום DIJET מצופה , 70 מעלות",14.54
+DIJET,NMHEP08-0075,XDMT 080620ZER   (PVD)            JC5118,10,לוחית כרסום DIJET מצופה  משובעת (7 צלעות),16.1
+DIJET,NMHEP08-0070,XDMT 080620ZER   (PVD)            JC8015,10,לוחית כרסום DIJET מצופה  משובעת (7 צלעות),16.65
+DIJET,NMHEP08-0080,XDMT 080620ZER   (PVD)            JC8050,10,לוחית כרסום DIJET מצופה  משובעת (7 צלעות),16.1
+DIJET,NMIEP10-0200,YPHW 100308ZER-15   (PVD)         JC6102,10,לוחית ימנית high feed milling לפלדה מחוסמת,22.37
+DIJET,NMIZD13-0090,ZDMT 13T308RP  (POLISHED)           FZ15,10,לוחית כרסום מלוטשת ל-SICM/SECM,18.32
+DIJET,NMIZD13-0070,ZDMT 13T320L                      JC5040,10,לוחית שמאלית לכרסום/שיקוע,18.08
+DIJET,NMIZD13-0100,ZDMT 13T320LP  (POLISHED)           FZ15,10,לוחית כרסום מלוטשת ל-SICM/SECM,18.32
+DIJET,NMIZO06-0210,ZOMT 060208ZER   (PVD)            JC8050,10,לוחית ימנית high feed milling,0
+DIJET,NMIZP10-0210,ZPMT 100308ZER                    JC5118,10,לוחית ימנית לכרסום,16.94
+DIJET,,BNM-100-SS                           DH108,10,,
+DIJET,,CNMG120404-SZ       JC5118,10,,
+DIJET,,ENMU100412ZER-PH       JC8118,10,,
+DIJET,,RDMW 1606M0T                  DH103,10,,
+DIJET,,SPMT100415ZPTR-PM       JC8118,10,,
+DIJET,,TNMG 331-SF              JC8015,10,,
+DIJET,,TNMG160408-UD       JC110V,10,,
+DIJET,,XDMT 080620ZER-ML                   JC7560P,10,,
+DIJET,,XDMW 080635ZTR-S                    JC5040,10,,
+DIJET,,YPHW 100308ZER-F    JC8015,10,,
+DIJET,,ZPMT 100308ZER                    JC8050,10,,
+DIJET,,ZPMT 13T316-RP                     FZ15,10,,
+DIJET,,ZPMT 13T320R                      JC5015,10,,
+DIJET,,YCMU 090716ZER-PM JC8050,10,,
+DIJET,,YCMU 09078ZER-PM JC8118,10,,
+DIJET,DOCSAR100010,DV-OCSAR4100-10 (D10l22L80d10R1.0)JC8010,9,כרסום אצבע ל-DIJET SUPER ALLOYS,298.99
+DIJET,NMMPM12-0010,"MPM-3012-M6              (D12,Z3,L20,M6)",9,"ראש כר',מתברג,לוחית EO/ZO0602",275.1
+DIJET,,BNM-060-SS                           DH108,8,,
+DIJET,,SPMT100415ZPER-SM       JC7550,8,,
+DIJET,,RDMX12T3MOT JC8015,8,,
+DIJET,DOCSAR120010,DV-OCSAR4120-10(D12l26L100d12R1.0)JC8010,7,כרסום אצבע ל-DIJET SUPER ALLOYS,374.81
+DIJET,NDMSB06-0040,BNM-060-S                         JC8008,6,"להב מתק""ש כדורי MIROR.BALL",73.66
+DIJET,DOCSAR030020,"DV-OCSAR 4030-05(D3l8L60Z4d6,R05) JC8010",6,כרסום אצבע DIJET SUPER ALLOYS,139.03
+DIJET,DOCSAR060020,"DV-OCSAR 4060-05(D3l8L60Z4d6,R05) JC8010",6,כרסום אצבע DIJET SUPER ALLOYS,174.99
+DIJET,NDMRB16-0300,HRM-160-R30   (H.F.C)             JC8015,6,"להב מתק""ש שטוח לקידמה מהירה",103.18
+DIJET,NMCS120-0020,MSN-M6-30-S12C                    (L=80),6,"קנה מתק""ש DIJET, קצה מתברג",502.75
+DIJET,NDMRB10-0110,RNM-100-R05                       JC8015,6,"להב מתק""ש שטוח MIROR.RAD",81.29
+DIJET,,APKT 1604PDR-08                   JC8050,6,,
+DIJET,,BNM-080-SS                           DH108,6,,
+DIJET,,BNM-160-SS                           DH108,6,,
+DIJET,,FRM-100-R10                         JC8015,6,,
+DIJET,,MBN-120-M6,6,,
+DIJET,,MRX-160-M8,6,,
+DIJET,NMMQX25-0020,"MQX-5025-M12             (D25,Z5,L35,M12)",5,"ראש כר',מתברג,לוחית EP10",427.16
+DIJET,NMMRN10-0010,"MRN-100-M6-H     (L=18,IMTERNAL COOLENT)",5,"ראש כרסום כדורי מתברג DIJET,",252.96
+DIJET,NMMRN16-0010,"MRN-160-M8-H     (L=23,IMTERNAL COOLENT)",5,"ראש כרסום כדורי מתברג DIJET,",314.67
+DIJET,NMCS120-0010,MSN-M6-15-S12C                    (L=60),5,"קנה מתק""ש DIJET, קצה מתברג",372.39
+DIJET,NMTEMRD-0510,"DDM-2200-60-W20    (D10,A20,d20,L110,Z2)",4,"כר'אצ',לוחית עגולה,לוח'RD1003",223.34
+DIJET,DOCSAR080020,"DV-OCSAR 4080-05(D3l8L60Z4d6,R05) JC8010",4,כרסום אצבע DIJET SUPER ALLOYS,212.54
+DIJET,DSCM6100-0010,"DV-SCMS6100   (D10.0,l25,L75,Z6)  JC8010",4,"כרסום אצבע מתק""ש לפלדות קשות",416.42
+DIJET,NDMRB08-0117,HRM-080-R05-F  (H.F.C)            JC8015,4,"להב מתק""ש שטוח לקידמה מהירה",71.6
+DIJET,NDMRB10-0115,HRM-100-R05    (H.F.C)            JC8015,4,"להב מתק""ש שטוח לקידמה מהירה",77.9
+DIJET,NDMRB10-0160,HRM-100-R10                       JC8015,4,"להב מתק""ש שטוח MIROR.RAD",84.67
+DIJET,NDMRB12-0300,HRM-120-R20   (H.F.C)             JC8015,4,"להב מתק""ש שטוח לקידמה מהירה",74.2
+DIJET,NMDDMSH-0270,"MSH-3026-M12           (D26,Z3*WD05,M12)",4,"ראש כר',HFM,מתברג,לוח'WD0503",481.43
+DIJET,NMCS160-0020,MSN-M8-40-S16C                    (L=95),4,"קנה מתק""ש DIJET, קצה מתברג",552.05
+DIJET,,BNM-200-SS                           DH108,4,,
+DIJET,,ENMU100412ZER-SL       JC7550,4,,
+DIJET,,MRX-120-M6-H,4,,
+DIJET,,#11139-Z9523   JC7550,4,,
+DIJET,DOCSAR160035,DV-OCSAR4160-10(D16l32L110d16R30) JC8010,3,כרסום אצבע DIJET SUPER ALLOYS,745.15
+DIJET,NDSEM60-0060,"DV-SEHM6060 (D6.0,l?,L?,Z6,d6)   JC8000H",3,"כרסום אצבע מתק""ש לפלדות קשות",197.93
+DIJET,NDSEM60-0100,"DV-SEHM6100 (D10.0,l?,L?,Z6,d10) JC8000H",3,"כרסום אצבע מתק""ש לפלדות קשות",310.59
+DIJET,DZR0410-0100,"DZ-OCRS4100           (D10,l23,L72,Z4)",3,"כר'אצ' מתק""ש ריסוק לפל' קשות וברזל יציקה",258.28
+DIJET,NMMBN16-0010,"MBN-160-M8-H     (L=23,IMTERNAL COOLENT)",3,"ראש כרסום כדורי מתברג DIJET,",257.53
+DIJET,NMMPM16-0010,"MPM-4016-M8              (D16,Z4,L23,M8)",3,"ראש כר',מתברג,לוחית EO/ZO0602",350.53
+DIJET,NMMQX20-0015,"MQX-3020-M10            (D20,Z3,L30,M10)",3,"ראש כר',מתברג,לוחית EP10",312.94
+DIJET,NMCS100-0030,MSN-M6-50-S10C                   (L=100),3,"קנה מתק""ש DIJET, קצה מתברג",469.21
+DIJET,NMMPM10-0020,"PME-2010-S10        (D10,Z2,L80,l20,d10)",3,"כרסום אצבע לוחית EO06,קרור פנימי",243.86
+DIJET,NDMRB20-0255,RNM-200-R20                       JC8015,3,"להב מתק""ש שטוח MIROR.RAD",127.71
+DIJET,NMTESKS-0200,"SKS-2020-50-S20   (D20,d20,H50,Z2*wd05)",3,"כרס'אצ',לוחית WD05 ל-H.F.MILL",475.88
+DIJET,NMTFSKS-0210,"SKS-4052R-08-22    (D52,d22,F50,Z4*wd08)",3,"כרס'שטח,לוחית high feed",713.22
+DIJET,NMTFSKS-0360,"SKS-4063R-10-27   (D63,d27,F50,Z4*wd010)",3,"כרס'שטח,לוחית high feed",853.82
+DIJET,,MBN-100-M6,3,,
+DIJET,,PME3012S12  (32143-Z8400),3,,
+DIJET,,TEZ 2650  JC8050,3,,
+DIJET,,TEZD 2600S32-MS,3,,
+DIJET,,ZPMT 160408-LP                      FZ15,3,,
+DIJET,,ZPMT100308ZER-PL CX75,3,,
+DIJET,NDMSB10-0020,BNM-100-SH   (PVD)               JC6102,2,להב כדורי מפותל MIROR.BALL,71.67
+DIJET,NDMSB12-0010,BNM-120-S    (PVD)                JC8008,2,להב כדורי מפותל MIROR.BALL,72.06
+DIJET,NDMSB16-0010,BNM-160-S    (PVD)                JC8008,2,להב כדורי מפותל MIROR.BALL,85.21
+DIJET,DOCSAR040020,"DV-OCSAR 4040-05(D3l8L60Z4d6,R05) JC8010",2,כרסום אצבע DIJET SUPER ALLOYS,149.39
+DIJET,DSCM6060-0010,"DV-SCMS6060    (D6.0,l15,L50,Z6)  JC8010",2,"כרסום אצבע מתק""ש לפלדות קשות",242.9
+DIJET,DSCM8120-0010,"DV-SCMS8120  (D12.0,l26,L100,Z8)  JC8010",2,"כרסום אצבע מתק""ש לפלדות קשות",566.77
+DIJET,NMEXSKS-0100,"EXSKS-4050R-22     (D50,d22,F55,Z4*wn09)",2,"כרס' high feed milling,לוח' 6 פינות עבודה",595
+DIJET,NMEXSKS-0150,"EXSKS-4052R-22     (D52,d22,F50,Z4*wn09)",2,"כרס' high feed milling,לוח' 6 פינות עבודה",588
+DIJET,NDMRB06-0180,HRM-060-R10   (H.F.C)             JC8015,2,"להב מתק""ש שטוח לקידמה מהירה",73.75
+DIJET,NDMRB08-0116,HRM-080-R05-F  (H.F.C)            JC6102,2,"להב מתק""ש שטוח לקידמה מהירה",71.6
+DIJET,NMMBN12-0010,"MBN-120-M6-H     (L=20,IMTERNAL COOLENT)",2,"ראש כרסום כדורי מתברג DIJET,",275.69
+DIJET,NMMCM25-0300,"MCM-2535-M12             (D25-35,L35,Z2)",2,"ראש כרסום 45 מע', מתברג, לוח'SP0903",495.1
+DIJET,NMMEC10-0020,"MEC-2021-M10  (D21,Z1+1,ZD/ZC10,L30,M10)",2,"ראש כר',מתברג,לוחית ZD/ZC 1003",527.11
+DIJET,NMMIC13-0040,"MIC-3032-M16     (D32,Z3,ZP1604,L43,M16)",2,"ראש כר',מתברג,לוחית ZPMT1604",599.93
+DIJET,NMMPM10-0010,"MPM-2010-M6              (D10,Z2,L18,M6)",2,"ראש כר',מתברג,לוחית EO/ZO0602",261.18
+DIJET,NMMRN12-0010,"MRN-120-M6-H     (L=20,IMTERNAL COOLENT)",2,"ראש כרסום כדורי מתברג DIJET,",238.31
+DIJET,NMDDMSH-0100,"MSH-2016-M8             (D16,Z2*WO04,M8)",2,"ראש כר',HFM,מתברג,לוח'WOMD04",406.03
+DIJET,NMDDMSH-0260,"MSH-3025-M12           (D25,Z3*WD05,M12)",2,"ראש כר',HFM,מתברג,לוח'WD0503",482.13
+DIJET,NMCS100-0010,MSN-M6-12-S10C                    (L=60),2,"קנה מתק""ש DIJET, קצה מתברג",305.27
+DIJET,NMCS120-0030,MSN-M6-50-S12C                   (L=100),2,"קנה מתק""ש DIJET, קצה מתברג",526.71
+DIJET,NMCS160-0010,MSN-M8-20-S16C                    (L=75),2,"קנה מתק""ש DIJET, קצה מתברג",538.84
+DIJET,NDMRB06-0070,RNM-060-R03                       JC8015,2,"להב מתק""ש שטוח MIROR.RAD",77.03
+DIJET,NDMRB06-0120,RNM-060-R05                       JC8015,2,"להב מתק""ש שטוח MIROR.RAD",77.03
+DIJET,NDMRB12-0070,RNM-120-R03                       JC8015,2,"להב מתק""ש שטוח MIROR.RAD",89.45
+DIJET,NDMRS16-0020,"RNMM-160090S-S16      (D16,d16,l90,L160)",2,"קנה פלדה ,בנוני,ל-MIRROR RADIUS",378.44
+DIJET,NMDDSDH-0300,"SDH-4320-R10-M16     (D32,Z4*RD1004,M16)",2,"ראש כר',מתברג,לוח'RD1004",410.32
+DIJET,NMDSM25-0140,"SECL 2527S25    (D25,d25,L0=27,L220,l75)",2,"כרסום אצבע/שיקוע, ארוך, רב-תכליתי",0
+DIJET,NMDSM25-0070,"SECM 2627S25    (D26,d25,L0=27,L140,l40)",2,"כרסום אצבע/שיקוע, קצר, רב-תכליתי",569.49
+DIJET,NMDSM32-0070,"SECM 3334S32    (D33,d32,L0=34,L150,l50)",2,"כרסום אצבע/שיקוע, קצר, רב-תכליתי",607.33
+DIJET,,BNM-080                                  DH103,2,,
+DIJET,,BNM-120                                 DH103,2,,
+DIJET,,BNM-120-S                             FZ05,2,,
+DIJET,,BNM-250-SS                             DH108,2,,
+DIJET,,BNMM-08035S-S08C,2,,
+DIJET,,FRM-120-R10                         JC8015,2,,
+DIJET,,FRM-120-R20                         JC8015,2,,
+DIJET,,GRM-160-R50                         JC8015,2,,
+DIJET,,GRM-200-R60                         JC8015,2,,
+DIJET,,MBX-200-M10,2,,
+DIJET,,MRX-100-M6,2,,
+DIJET,,MSN-M6-120S-S11.8C        ,2,,
+DIJET,,MSN-M6-35T-S12C        ,2,,
+DIJET,,PME3013S12-LS  (32143-Z7204),2,,
+DIJET,,SECM 2121S20,2,,
+DIJET,,SICM 2513S25-3N,2,,
+DIJET,,SKS-3040-50-S32  (32121-Z1890),2,,
+DIJET,,TEZ 1430  JC8050,2,,
+DIJET,,TEZ 1450  JC8050,2,,
+DIJET,,TEZ 1630  JC8050,2,,
+DIJET,,BNM-080       JC8003,2,,
+DIJET,NMDFM50-0010,"ALX-4050R-22            (D50,d22,Z4,l50)",1,ראש כרסום מהיר DIJET לטיטניום/אלומיניום,0.05
+DIJET,NDMBB08-0010,BNM-080                           JC5003,1,"להב מתק""ש כדורי MIROR.BALL",67.14
+DIJET,NDMBB08-0030,BNM-080                           JC5015,1,"להב מתק""ש כדורי MIROR.BALL",67.14
+DIJET,NDMBS06-0016,"BNMS-060017S-S06C(D06,d6.0,l17,L60)",1,"קנה מתק""ש ,קצר,ל-MIRROR BALL",569.04
+DIJET,NDMBS06-0010,"BNMS-060030T-S10 (D06,d10,l0=15,l30,L80)",1,"קנה פלדה ,קצר,ל-MIRROR BALL",586.52
+DIJET,NDMBS06-0015,"BNMS-060030T-S10C(D06,d10,l0=30,l30,L80)",1,"קנה מתק""ש ,קצר,ל-MIRROR BALL",644.84
+DIJET,NMTEMRD-0400,"DDM-2160-40-W16     (D09,A16,d16,L88,Z2)",1,"כר'אצ',לוחית עגולה,לוח'RD0702",261.34
+DIJET,DOCSAR160030,DV-OCSAR4160-30(D16l32L110d16R30)JC8000H,1,כרסום אצבע DIJET SUPER ALLOYS,0.04
+DIJET,DSEH6100-010,"DV-SEHH6100-R02 (D10,l25,L80,Z6) JC8000H",1,"כרסום אצבע מתק""ש לפלדות קשות",188.48
+DIJET,DSEH6120-010,"DV-SEHH6120-R02 (D12,l30,L100,Z6)JC8000H",1,"כרסום אצבע מתק""ש לפלדות קשות",474.1
+DIJET,NMEXSKS-0350,"EXSKS-5063R-27     (D63,d27,F50,Z5*wn09)",1,"כרס' high feed milling,לוח' 6 פינות עבודה",778.35
+DIJET,,EXTDM-5052R-12-22,1,"כרס' high feed milling,לוח' 6 פינות עבודה",
+DIJET,NMEXSKS-0500,"EXSKS-6080R-27     (D80,d27,F??,Z6*wn09)",1,"כרס' high feed milling,לוח' 6 פינות עבודה",1010.27
+DIJET,NMTFHEP-0005,"HEP-3050R-08-22         (D50,d22,F65,Z3)",1,"כרס'שטח,לוחית משובעת XDMW0806",584.02
+DIJET,NMTFHEP-0020,"HEP-4063R-08-27         (D63,d27,F50,Z4)",1,"כרס'שטח,לוחית משובעת XDMW0806",652.72
+DIJET,NDMRB20-0300,HRM-200-R30   (H.F.C)             JC8015,1,XDHW 0206-10,118.02
+DIJET,NMMBN10-0010,"MBN-100-M6-H     (L=18,IMTERNAL COOLENT)",1,"ראש כרסום כדורי מתברג DIJET,",268.19
+DIJET,NMMCM25-0400,"MCM-3343-M16             (D33-43,L43,Z3)",1,"ראש כרסום 45 מע', מתברג, לוח'SP0903",514.65
+DIJET,NMMEC13-0010,"MEC-2025-M12  (D25,Z1+1,ZP/ZD13,L35,M12)",1,"ראש כר',מתברג,לוחית ZP/ZD 13T3",628.17
+DIJET,NMMEC13-0020,"MEC-2026-M12  (D26,Z1+1,ZP/ZD13,L35,M12)",1,"ראש כר',מתברג,לוחית ZP/ZD 13T3",541.72
+DIJET,NMMIC13-0020,"MIC-3025-M12     (D25,Z3,ZP13T3,L35,M12)",1,"ראש כר',מתברג,לוחית ZPMT13T3",489.11
+DIJET,NMMQX32-0020,"MQX-6032-M16            (D32,Z6,L43,M16)",1,"ראש כר',מתברג,לוחית EP10",516.94
+DIJET,NMMRN20-0010,"MRN-200-M10-H    (L=30,IMTERNAL COOLENT)",1,"ראש כרסום כדורי מתברג DIJET,",347.03
+DIJET,NMDDMSH-0300,"MSH-3033-M16           (D33,Z3*WD06,M16)",1,"ראש כר',HFM,מתברג,לוח'WD06T3",536.15
+DIJET,NMDDMSH-0400,"MSH-4032-M16           (D32,Z4*WD05,M16)",1,"ראש כר',HFM,מתברג,לוח'WD0503",812.29
+DIJET,NMCS200-0010,MSN-M10-20-S20C                   (L=80),1,"קנה מתק""ש DIJET, קצה מתברג",587
+DIJET,NMCS200-0040,MSN-M10-40-S20C                   (L=80),1,"קנה מתק""ש DIJET, קצה מתברג",638.9
+DIJET,NMCS120-0050,"MSN-M6-90S-S12C            (D12,M6,L=90)",1,"קנה מתק""ש DIJET, קצה מתברג",739.28
+DIJET,NMCS160-0050,"MSN-M8-107S-S16C          (D16,M8,L=107)",1,"קנה מתק""ש DIJET, קצה מתברג",580.04
+DIJET,NMMSW20-0010,"MSW-2018-M10      (D20,l18.5,L30,M10,Z2)",1,ראש כרסום DIJET כדורי עם לוחיות,728.78
+DIJET,NMFXD35-0065,"MXD-3035-M16  (95)      (D35,L43,M16,Z3)",1,"ראש כרס'מתב',95 מע',לוח'XD02",339.69
+DIJET,NDMRB10-0210,RNM-100-R15                       JC5015,1,"להב מתק""ש שטוח MIROR.RAD",84.67
+DIJET,NDMRS08-0050,"RNML-080075S-S08C(D08,d12,l0=18,l75,L140",1,"קנה פלדה ,ארוך,ל-MIRROR RADIUS",0
+DIJET,NDMRS08-0020,"RNMM-080053T-S12(D08,d12,l0=18,l53,L110)",1,"קנה פלדה ,בנוני,ל-MIRROR RADIUS",253.62
+DIJET,NDMRS08-0040,"RNMS-080020U-S08C(D08,d8.0,l20,L70",1,"קנה מתק""ש ,קצר,ל-MIRROR RADIUS",661.94
+DIJET,NMDDSDH-0220,"SDH-3220-R07-M10     (D22,Z3*RD07T2,M10)",1,"ראש כר',מתברג,לוח'RD07T2",341.99
+DIJET,NMDDSDH-0420,"SDH-4400-R12-M16     (D40,Z4*RD1204,M16)",1,"ראש כר',מתברג,לוח'RD1204",507.34
+DIJET,NMDSM25-0050,"SECM 2527S25    (D25,d25,L0=27,L140,l60)",1,"כרסום אצבע/שיקוע, קצר, רב-תכליתי",569.49
+DIJET,DZSEM4040010,"SEM 4040            (D4.0,d6,l12,L50,Z4)",1,"כרסום אצבע מתק""ש לשימוש כללי",65.68
+DIJET,DZSEM4100010,"SEM 4100          (D10.0,d10,l22,L70,Z4)",1,"כרסום אצבע מתק""ש לשימוש כללי",165.21
+DIJET,NMTESKS-0160,"SKS-2016-50-S16   (D16,d16,H50,Z2*wo04)",1,"כרס'אצ',לוחית WO04 ל-H.F.MILL",348.23
+DIJET,NMTSD12-0040,"SSD90-5063R-22   (D63,d27,H??,Z5,G-BODY)",1,"כר'מצ' (90),לוח' מרובעת,SD1205",536.4
+DIJET,NMTSE13-0040,"SSE45-4050R-22   (D400,d22,H??,Z4,G-BODY)",1,"כר'מצ' (45),לוח' מרובעת,SE13T3",571.25
+DIJET,NMTSE13-0050,"SSE45-5050R-22   (D50,d22,H??,Z5,G-BODY)",1,"כר'מצ' (45),לוח' מרובעת,SE13T3",699.78
+DIJET,NMEMB16-0010,"SWB-16050S-S16     (D16,d16,L???,l50,Z2)",1,כרסום אצבע כדורי ארוך SWING-BALL,451.33
+DIJET,NMTFMRP-0110,"TDM-5052-12R-22     (D52,A50,F40,d22,Z5)",1,"כרס'שטח,לוחית עגולה,RP1204",0.04
+DIJET,,BNMS 080025S-S08C,1,,
+DIJET,,EXSKS-4052R-22,1,,
+DIJET,,MBX-250-M12,1,,
+DIJET,,MPM-5020-M10,1,,
+DIJET,,MQX2016-M8    (32140-6914),1,MODULAR HEAD SYSTEM,
+DIJET,,MQX-4020-M10  (32140-Z6590),1,MODULAR HEAD SYSTEM,
+DIJET,,MSG-5035-09-M16  (32150-Z3999),1,MODULAR HEAD SYSTEM,
+DIJET,,MSG-3025-09-M12,1,MODULAR HEAD SYSTEM,
+DIJET,,SEHH 6080-R10 DH102,1,,
+DIJET,,TDM-5050R-12-22,1,,
+DIJET,,TEZ 2000  JC8050,1,,
+DIJET,,TEZD 1400S16-ML,1,,
+DIJET,,TEZD 1400S16-MS,1,,
+DIJET,,TEZD 1600S20-ML,1,,
+DIJET,,TEZD 2000S25-MS,1,,
+DIJET,,TEZD 2000S25-ML,1,,
+DIJET,,TLZD2000S25-SS,1,מקדח,
+DIJET,,TLZD2000-M10,1,,
+DIJET,,TLZ2000 JC7550,1,,

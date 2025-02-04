@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <link rel="stylesheet" href="./styles/main.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1,maximum-scale=1">
+</head>
+<body>
+    <nav class="mainnav navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container">
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="/">Home</a>
+                    </li>
+                    <!-- li class="nav-item">
+        <a class="nav-link" href="/admin">Admin</a>
+    </li-->                    
+                </ul>
+                <form class="d-flex" id="myForm" role="search">
+                    <input id="search" class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+    <!-- div class="jumbotron jumbotron-fluid">
+        <div class="container">
+            <h1 class="display-4">ARIE ELAD ltd.</h1>
+            <p class="lead">Cutting tools for industry</p>
+        </div>
+    </div-->
+    <nav id="companies" class="navbar navbar-expand-lg bg-body-tertiary companies">
+        <div class="container">
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul id="companies-nav" class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page">All Companies</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="results-sum">
+        <div id="total-results" class="container">
+        </div>
+    </div>
+    <div class="container products">
+        <div id="products" class="row">
+        </div>
+    </div>
+    <script>
+        var host = $(location).attr('hostname');
+        let products = []
+
+        $(() => {
+            // Execute a function when the user releases a key on the keyboard
+            getMessages();
+            $('#myForm').on('submit', function (event) {
+                event.preventDefault();  // Prevent form submission and page refresh
+                const txt = ($('#search').val()).trim()
+                if (txt.length > 1) {
+                    showProducts({
+                        subcode: txt,
+                        code: txt,
+                    })
+                }
+                //submitSearch();
+            });
+        })
+
+        function addMessages(message) {
+            $('#products').append(
+                `<tr>
+                            <td>${message.company}</td>
+                            <td>${message.code}</td>
+                            <td>${message.subcode}</td>
+                            <td>${message.description}</td>
+                            <td>${message.amount}</td>
+                    </tr>
+                `)
+        }
+
+        function addCard(item) {
+            $('#products').append(
+                `<div class="col-lg-4 col-md-6 col-sm-12 mb-3">
+                <div class="card">
+                    <div class="row g-0">
+
+                        <div class="col-md-4 card-image-bg">
+<h6 class="cardTitle">${item.company}</h6>
+<svg xmlns="http://www.w3.org/2000/svg" width=80" height="80" fill="#fff" class="bi bi-gear-wide-connected" viewBox="0 0 16 16">
+      <path d="M7.068.727c.243-.97 1.62-.97 1.864 0l.071.286a.96.96 0 0 0 1.622.434l.205-.211c.695-.719 1.888-.03 1.613.931l-.08.284a.96.96 0 0 0 1.187 1.187l.283-.081c.96-.275 1.65.918.931 1.613l-.211.205a.96.96 0 0 0 .434 1.622l.286.071c.97.243.97 1.62 0 1.864l-.286.071a.96.96 0 0 0-.434 1.622l.211.205c.719.695.03 1.888-.931 1.613l-.284-.08a.96.96 0 0 0-1.187 1.187l.081.283c.275.96-.918 1.65-1.613.931l-.205-.211a.96.96 0 0 0-1.622.434l-.071.286c-.243.97-1.62.97-1.864 0l-.071-.286a.96.96 0 0 0-1.622-.434l-.205.211c-.695.719-1.888.03-1.613-.931l.08-.284a.96.96 0 0 0-1.186-1.187l-.284.081c-.96.275-1.65-.918-.931-1.613l.211-.205a.96.96 0 0 0-.434-1.622l-.286-.071c-.97-.243-.97-1.62 0-1.864l.286-.071a.96.96 0 0 0 .434-1.622l-.211-.205c-.719-.695-.03-1.888.931-1.613l.284.08a.96.96 0 0 0 1.187-1.186l-.081-.284c-.275-.96.918-1.65 1.613-.931l.205.211a.96.96 0 0 0 1.622-.434zM12.973 8.5H8.25l-2.834 3.779A4.998 4.998 0 0 0 12.973 8.5m0-1a4.998 4.998 0 0 0-7.557-3.779l2.834 3.78zM5.048 3.967l-.087.065zm-.431.355A4.98 4.98 0 0 0 3.002 8c0 1.455.622 2.765 1.615 3.678L7.375 8zm.344 7.646.087.065z"/>
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h6 class="card-title">${item.subcode || item.code}</h6>
+                                <p class="card-text"><small class="text-body-secondary">${item.description}</small></p>
+                                <p class="card-text amount"><small class="text-body-secondary">In stock: ${item.amount}</small></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>`
+            );
+        }
+
+
+        function addCompany(company) {
+            $('#companies-nav').append(
+                `<li class="nav-item">
+                        <a class="nav-link" aria-current="page" id="${company}">${company}</a>
+                    </li>`
+            );
+        }
+
+        function selectCompany(company) {
+            showProducts({
+                company
+            })
+        }
+
+        function getMessages() {
+            $.get(`http://${host}:3000/products`, (data) => {
+                data.companies.forEach(addCompany);
+                products = data.products || []
+                showProducts({})
+
+                $('#companies-nav').on('click', '.nav-link', function (e) {
+                    $('#companies-nav .nav-link').removeClass('active');
+                    $(this).addClass('active');
+                    selectCompany($(this).attr("id"));
+                });
+            })
+        }
+
+        function showProducts(filterCriteria) {
+            $('#products').text('')
+            const filteredProducts = Object.keys(filterCriteria).length ?
+                products.filter(product => {
+                    return Object.keys(filterCriteria).some(key => {
+                        // Convert both product and filter criteria to lowercase
+                        const productValue = (product[key] || '').toString().toLowerCase();
+                        const filterValue = (filterCriteria[key] || '').toString().toLowerCase();
+                        console.log(productValue, filterValue)
+                        // Check if the product contains the filter criteria (partial match)
+                        return productValue.includes(filterValue);
+                    })
+                }) : products;
+            $('#total-results').text('Total Items: ' + filteredProducts.length)
+            filteredProducts.forEach(addCard);
+        }
+
+        function postMessages(message) {
+            const promise = new Promise((resolve, reject) => {
+                var post = $.post(`http://${host}:3000/messages`, message);
+                post.done(resolve)
+            })
+            promise.then(() => { console.log(555); $('#message').val('') })
+        }
+    </script>
+</body>
+</html>

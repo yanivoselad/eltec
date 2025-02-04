@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+html,body{margin:0}
+
+.jumbotron {
+    background: #339fb591;
+    padding: 3rem 0;
+}
+#myForm {
+    padding:1rem 0;
+}
+nav.mainnav {
+    background-color: #024f5e !important;
+    color: #fff !important;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+    nav.mainnav ul .nav-link {
+        color: #fff !important;
+        font-weight: bold;
+        font-size: 1.2rem;
+    }
+
+nav.companies {
+    background-color: #024f5e91 !important;
+    color: #fff!important;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+nav.companies ul {
+    margin:auto;
+}
+
+    nav.companies .nav-link.active {
+        color: #fff
+    }
+
+    nav.companies ul li {
+        border-right: 1px solid #000;
+        cursor: pointer;
+        font-size: .8em;
+        padding: 0 10px;
+    }
+
+    nav.companies ul li:last-child {
+        border-right: none
+    }
+.products {
+    padding: 1rem;
+}
+.results-sum {
+    padding: 1rem;
+}
+.card,
+.card .row {
+    min-height: 200px;
+    border-radius:10px!important;
+}
+.cardTitle {
+    background: #bdad30;
+    margin-bottom: 0;
+    color: #fff;
+    padding: 2px 15px;
+    position: absolute;
+    top: 0;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.card-text.amount{
+    position:absolute;
+    bottom:0;
+}
+
+.card-body {
+    direction:rtl;
+}
+
+.card .card-image-bg {
+    background-color: #9999;
+    display: flex;
+    align-items: center;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+    
+/*# sourceMappingURL=main.css.map */
