@@ -11,6 +11,8 @@ const { sendStatus } = require('express/lib/response')
 const fs = require('fs');
 const csv = require('csv-parser');
 const _ = require('lodash');
+const path = require('path');
+
 require('dotenv').config();
 mongoose.set('strictQuery', false);
 
@@ -81,7 +83,7 @@ function csvToJson(filePath) {
     });
 }
 
-app.post('/admin/upload', async (req, res) => {
+app.post('/api/admin/upload', async (req, res) => {
     console.log(req.body)
     const Product = mongoose.model('Product', productSchema);
     await Product.deleteMany({
@@ -95,7 +97,7 @@ app.post('/admin/upload', async (req, res) => {
     res.sendStatus(200)
 })
 
-app.get('/products', (req, res) => {
+app.get('/api/products', (req, res) => {
     const Product = mongoose.model('Product', productSchema);
     Product.find({}, (err, products) => {        
         res.status(200).send({
@@ -105,20 +107,6 @@ app.get('/products', (req, res) => {
     })
 })
 
-app.get('/users',(req,res) => {
-    res.send()
-})
-
-app.post('/messages',(req,res) => {
-    var message = new Message(req.body)
-    message.save((err) => {
-    if(err)
-        sendStatus(500)
-    
-    io.emit('message',req.body)
-    res.sendStatus(200)
-    })
-})
 
 io.on('connection',(socket) => {
     if(!connections.includes(socket.id)){
@@ -131,6 +119,6 @@ mongoose.connect(dbUrl,(err) => {
     console.log('mongoose DB connection ' + err)
 })
 
-server.listen(3000,() => {
+server.listen(4000,() => {
     console.log('server is listening at port:'+ server.address().port)
 })

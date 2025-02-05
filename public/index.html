@@ -51,7 +51,7 @@
         </div>
     </div>
     <script>
-        var host = $(location).attr('hostname');
+        var host = $(location).attr('origin');
         let products = []
 
         $(() => {
@@ -122,7 +122,7 @@
         }
 
         function getMessages() {
-            $.get(`http://${host}/products`, (data) => {
+            $.get(`${host}/api/products`, (data) => {
                 data.companies.forEach(addCompany);
                 products = data.products || []
                 showProducts({})
@@ -152,13 +152,6 @@
             filteredProducts.forEach(addCard);
         }
 
-        function postMessages(message) {
-            const promise = new Promise((resolve, reject) => {
-                var post = $.post(`http://${host}:3000/messages`, message);
-                post.done(resolve)
-            })
-            promise.then(() => { console.log(555); $('#message').val('') })
-        }
     </script>
 </body>
 </html>
