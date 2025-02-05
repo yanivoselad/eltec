@@ -122,7 +122,7 @@
         }
 
         function getMessages() {
-            $.get(`http://${host}:3000/products`, (data) => {
+            $.get(`http://${host}/products`, (data) => {
                 data.companies.forEach(addCompany);
                 products = data.products || []
                 showProducts({})
