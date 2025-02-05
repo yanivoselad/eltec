@@ -67,7 +67,7 @@
                     module: $("#module").val()
                 }
                 const promise = new Promise((resolve, reject) => {
-                    var post = $.post(`http://localhost:3000/admin/upload`, formData);
+                    var post = $.post(`http://localhost:4000/api/admin/upload`, formData);
                     post.done(resolve)
                 })
                 promise.then(() => { console.log(555); $('#message').val('') })

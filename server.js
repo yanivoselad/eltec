@@ -12,6 +12,12 @@ const fs = require('fs');
 const csv = require('csv-parser');
 const _ = require('lodash');
 const path = require('path');
+const cors = require('cors');
+
+app.use(cors({
+    origin: 'http://localhost:3000',
+    methods: ['GET', 'POST'], // You can specify which methods are allowed
+}));
 
 require('dotenv').config();
 mongoose.set('strictQuery', false);
@@ -54,7 +60,27 @@ var productSchema = new mongoose.Schema({
     price: {
         type: String,
         required: false
-    }
+    },
+    category: {
+        type: String,
+        required: false
+    },
+    subcategory: {
+        type: String,
+        required: false
+    },
+    izo: {
+        type: String,
+        required: false
+    },
+    grade: {
+        type: String,
+        required: false
+    },
+    currency: {
+        type: String,
+        required: false
+    },
 })
 
 //pt3FgJMOE4vf6zAB
@@ -99,10 +125,25 @@ app.post('/api/admin/upload', async (req, res) => {
 
 app.get('/api/products', (req, res) => {
     const Product = mongoose.model('Product', productSchema);
-    Product.find({}, (err, products) => {        
+    Product.find({}, (err, products) => {
+        let categories = _.groupBy(products, 'category')
+        if (_.keys(categories).includes('undefined')) {
+            categories['other'] = [...categories['other'], ...categories['undefined']]
+            delete categories['undefined']
+        }
+        let categoriesSum = []
+        _.keys(categories).forEach((category) => {
+            categoriesSum.push({
+                name: category,
+                amount: categories[category].length,
+                companies: _.keys(_.groupBy(categories[category],'company'))
+            })
+        })
+        
         res.status(200).send({
             companies: _.keys(_.keyBy(products, 'company')),
             products: products,
+            categories: categoriesSum
         })
     })
 })
