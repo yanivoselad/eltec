@@ -125,18 +125,31 @@ app.post('/api/admin/upload', async (req, res) => {
 
 app.get('/api/products', (req, res) => {
     const Product = mongoose.model('Product', productSchema);
-    Product.find({}, (err, products) => {
+    Product.find({}, (err, _products) => {
+        let products = [..._products]
+        products = products.map(prod => {
+            let product = prod  
+            product.category= !prod.category ? "other" : prod.category
+            product.subcategory = !prod.subcategory ? "other" : prod.subcategory            
+            return product
+        })
+
         let categories = _.groupBy(products, 'category')
-        if (_.keys(categories).includes('undefined')) {
-            categories['other'] = [...categories['other'], ...categories['undefined']]
-            delete categories['undefined']
-        }
+       
         let categoriesSum = []
         _.keys(categories).forEach((category) => {
+            let subcategories = _.groupBy(categories[category], 'subcategory')
+            let categorybycompany = _.groupBy(categories[category], 'company')
+            console.log(_.keys(categorybycompany))
+            let categoryMapping = {}
+            _.keys(categorybycompany).forEach((company) => {
+                categoryMapping[company] = categorybycompany[company].length
+            })
             categoriesSum.push({
                 name: category,
-                amount: categories[category].length,
-                companies: _.keys(_.groupBy(categories[category],'company'))
+                amount: { total: categories[category].length, companies : categoryMapping },
+                companies: _.keys(categorybycompany),
+                subcategories: _.keys(subcategories),
             })
         })
         
