@@ -39,6 +39,7 @@ var productSchema = new mongoose.Schema({
     company: {
         type: String,
         required: true,
+        //default:"ALLIED"
     },
     code: {
         type: String,

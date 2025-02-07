@@ -1,13 +1,12 @@
-company,code,subcode,amount,description,price
-MBC,BMR 40X6 016 LOGU 0303,,1,ראש מקדח,0
-MBC,BMR D12 W12 L150 Z04 LPGT 0102,,1,מקדח,0
-MBC,BMR D12 W12 L150 Z03 LPGT 0102,,1,מקדח,0
-MBC,BMR D16 W16 L160 Z04 LPGT 0102,,2,מקדח,0
-MBC,BMR D17 W16 L150 Z02 XDHW 0602,,2,מקדח,0
-MBC,BMR D17 W16 L150 Z02 XDHW 0602,,1,מקדח,0
-MBC,BMR D17 W16 L160 Z02 LOGU 0303,,3,מקדח,0
-MBC,BMR D21 W20 L160 Z03 LOGU 0303,,2,מקדח,0
-MBC,BMR D26 W25 L160 Z04 LOGU 0303,,4,מקדח,0
-MBC,EM90 D21 W20 L150 Z03 XNEX 0403,,2,מקדח,0
-MBC,VT BMR 32X5 016 LOGU 0303,,2,ראש מקדח,0
-MBC,VT EM90 25X4 M12 XNEX 0403,,1,ראש מקדח,0
+company,subcode,תאור פריט,amount,price,עלות כוללת ,category,subcategory
+MBC,BMR 40X6 016 LOGU 0303,ראש מקדח,1,€43.00,€43.00,drills,drill_head
+MBC,BMR D12 W12 L150 Z04 LPGT 0102,מקדח,1,€36.00,€36.00,drills,drills
+MBC,BMR D12 W12 L150 Z03 LPGT 0102,מקדח,1,€36.00,€36.00,drills,drills
+MBC,BMR D16 W16 L160 Z04 LPGT 0102,מקדח,2,€40.00,€80.00,drills,drills
+MBC,BMR D17 W16 L150 Z02 XDHW 0602,מקדח,3,€34.00,€102.00,drills,drills
+MBC,BMR D17 W16 L160 Z02 LOGU 0303,מקדח,3,€34.00,€102.00,drills,drills
+MBC,BMR D21 W20 L160 Z03 LOGU 0303,מקדח,2,€37.00,€74.00,drills,drills
+MBC,BMR D26 W25 L160 Z04 LOGU 0303,מקדח,4,€45.00,€180.00,drills,drills
+MBC,EM90 D21 W20 L150 Z03 XNEX 0403,מקדח,2,€38.00,€76.00,drills,drills
+MBC,VT BMR 32X5 016 LOGU 0303,ראש מקדח,2,€44.00,€88.00,drills,drill_head
+MBC,VT EM90 25X4 M12 XNEX 0403,ראש מקדח,1,€38.00,€38.00,drills,drill_head
