@@ -15,7 +15,7 @@ const path = require('path');
 const cors = require('cors');
 
 app.use(cors({
-    origin: 'http://localhost:3000',
+    origin: 'https://master.d214kkf92dbtt3.amplifyapp.com',
     methods: ['GET', 'POST'], // You can specify which methods are allowed
 }));
 
