@@ -24,9 +24,6 @@ mongoose.set('strictQuery', false);
 
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({extended:false}))
-
-
-app.use(express.static(__dirname+'/public'))
   
 var dbUrl = process.env.DB_URL
 
@@ -162,6 +159,7 @@ app.get('/api/products', (req, res) => {
     })
 })
 
+app.use(express.static(__dirname + '/dist'))
 
 io.on('connection',(socket) => {
     if(!connections.includes(socket.id)){
