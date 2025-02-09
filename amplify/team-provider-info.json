@@ -8,8 +8,13 @@
       "DeploymentBucketName": "amplify-eltec-dev-80328-deployment",
       "UnauthRoleName": "amplify-eltec-dev-80328-unauthRole",
       "StackName": "amplify-eltec-dev-80328",
-      "StackId": "arn:aws:cloudformation:eu-north-1:920372999804:stack/amplify-eltec-dev-80328/bf186010-e6cb-11ef-a46c-0afbf34f365d",
+      "StackId": "arn:aws:cloudformation:eu-north-1:920372999804:stack/amplify-eltec-dev-80328/2e8ca510-e6d0-11ef-a1ae-0e5c1c81f28b",
       "AmplifyAppId": "d3tb1e0p0q5ztj"
+    },
+    "categories": {
+      "api": {
+        "getProducts": {}
+      }
     }
   }
 }
