@@ -12,12 +12,6 @@ const fs = require('fs');
 const csv = require('csv-parser');
 const _ = require('lodash');
 const path = require('path');
-const cors = require('cors');
-
-app.use(cors({
-    origin: 'https://master.d214kkf92dbtt3.amplifyapp.com',
-    methods: ['GET', 'POST'], // You can specify which methods are allowed
-}));
 
 require('dotenv').config();
 mongoose.set('strictQuery', false);
@@ -124,7 +118,7 @@ app.post('/api/admin/upload', async (req, res) => {
     res.sendStatus(200)
 })
 
-app.get('/getProducts', (req, res) => {
+app.get('/api/getProducts', (req, res) => {
     const Product = mongoose.model('Product', productSchema);
     Product.find({}, (err, _products) => {
         let products = [..._products]
