@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/products": {
+      "name": "/products",
+      "lambdaFunction": "eltec7386bc2e",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
