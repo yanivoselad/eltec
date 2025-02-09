@@ -122,7 +122,7 @@
         }
 
         function getMessages() {
-            $.get(`${host}/api/products`, (data) => {
+            $.get(`${host}/api/getProducts`, (data) => {
                 data.companies.forEach(addCompany);
                 products = data.products || []
                 showProducts({})

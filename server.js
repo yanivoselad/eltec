@@ -124,7 +124,7 @@ app.post('/api/admin/upload', async (req, res) => {
     res.sendStatus(200)
 })
 
-app.get('/api/products', (req, res) => {
+app.get('/api/getProducts', (req, res) => {
     const Product = mongoose.model('Product', productSchema);
     Product.find({}, (err, _products) => {
         let products = [..._products]
