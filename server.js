@@ -121,7 +121,7 @@ app.post('/api/admin/upload', async (req, res) => {
     res.sendStatus(200)
 })
 
-app.get('/api/products', (req, res) => {
+app.get('/products', (req, res) => {
     const Product = mongoose.model('Product', productSchema);
     Product.find({}, (err, _products) => {
         let products = [..._products]
@@ -159,7 +159,6 @@ app.get('/api/products', (req, res) => {
     })
 })
 
-app.use(express.static(__dirname + '/dist'))
 
 io.on('connection',(socket) => {
     if(!connections.includes(socket.id)){
